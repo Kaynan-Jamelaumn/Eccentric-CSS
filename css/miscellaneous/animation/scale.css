@@ -79,6 +79,16 @@
   animation-timing-function: ease-in-out;
 }
 
+.scale-2:hover {
+  animation: scale-2 2s ease-in-out;
+}
+
+.Ascale-2:hover {
+  animation-name: scale-2;
+  animation-timing-function: ease-in-out;
+}
+
+
 .scale-2p2:hover {
   animation: scale-2p2 2s ease-in-out;
 }
@@ -160,21 +170,32 @@
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p3:hover {
-  animation: scale-3p3 3s ease-in-out;
+
+.scale-3:hover {
+  animation: scale-3 2s ease-in-out;
 }
 
-.Ascale-3p3:hover {
-  animation-name: scale-3p3;
+.Ascale-3:hover {
+  animation-name: scale-3;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p3:hover {
-  animation: scale-3p3 3s ease-in-out;
+
+.scale-3p1:hover {
+  animation: scale-3p1 3s ease-in-out;
 }
 
-.Ascale-3p3:hover {
-  animation-name: scale-3p3;
+.Ascale-3p1:hover {
+  animation-name: scale-3p1;
+  animation-timing-function: ease-in-out;
+}
+
+.scale-3p2.Ascale-1p5:hover {
+  animation: scale-3p2 3s ease-in-out;
+}
+
+.Ascale-3p2:hover {
+  animation-name: scale-3p2;
   animation-timing-function: ease-in-out;
 }
 
@@ -241,41 +262,53 @@
   animation-timing-function: ease-in-out;
 }
 
-
-
-
-.scale-4p4:hover {
-  animation: scale-4p4 4s ease-in-out;
+.scale-4:hover {
+  animation: scale-4 4s ease-in-out;
 }
 
-
-.Ascale-4p4:hover {
-  animation-name: scale-4p4;
+.Ascale-4:hover {
+  animation-name: scale-4;
   animation-timing-function: ease-in-out;
 }
 
-.scale-4p4:hover {
-  animation: scale-4p4 4s ease-in-out;
+
+.scale-4p1:hover {
+  animation: scale-4p1 4s ease-in-out;
 }
 
 
-.Ascale-4p4:hover {
-  animation-name: scale-4p4;
+.Ascale-4p1:hover {
+  animation-name: scale-4p1;
   animation-timing-function: ease-in-out;
 }
 
-.scale-4p4:hover {
-  animation: scale-4p4 4s ease-in-out;
+
+.scale-4p2:hover {
+  animation: scale-4p2 4s ease-in-out;
 }
 
-.Ascale-4p4:hover {
-  animation-name: scale-4p4;
+
+.Ascale-4p2:hover {
+  animation-name: scale-4p2;
   animation-timing-function: ease-in-out;
 }
 
+
+.scale-4p3:hover {
+  animation: scale-4p3 4s ease-in-out;
+}
+
+
+.Ascale-4p3:hover {
+  animation-name: scale-4p3;
+  animation-timing-function: ease-in-out;
+}
+
+
 .scale-4p4:hover {
   animation: scale-4p4 4s ease-in-out;
 }
+
 
 .Ascale-4p4:hover {
   animation-name: scale-4p4;
@@ -324,6 +357,15 @@
 
 .Ascale-4p9:hover {
   animation-name: scale-4p9;
+  animation-timing-function: ease-in-out;
+}
+
+.scale-5:hover {
+  animation: scale-5 4s ease-in-out;
+}
+
+.Ascale-5:hover {
+  animation-name: scale-5;
   animation-timing-function: ease-in-out;
 }
 
@@ -437,335 +479,312 @@
   }
 }
 
-@keyframes scale-2p2 {
+@keyframes scale-2 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
-    transform: scale(2.2);
+  100% {
+    transform: scale(2);
+  }
+}
+
+@keyframes scale-2p1 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(2.1);
   }
 }
 
 @keyframes scale-2p2 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
+  100% {
     transform: scale(2.2);
   }
 }
 
 @keyframes scale-2p3 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
+  100% {
     transform: scale(2.3);
   }
 }
 
 @keyframes scale-2p4 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
+  100% {
     transform: scale(2.4);
   }
 }
 
 @keyframes scale-2p5 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
+  100% {
     transform: scale(2.5);
   }
 }
 
 @keyframes scale-2p6 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
-    transform: scale(2.6);
-  }
-}
-
-@keyframes scale-2p5 {
-  0% {
-    transform: scale(2);
-  }
-
-  200% {
-    transform: scale(2.5);
-  }
-}
-
-@keyframes scale-2p6 {
-  0% {
-    transform: scale(2);
-  }
-
-  200% {
+  100% {
     transform: scale(2.6);
   }
 }
 
 @keyframes scale-2p7 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
+  100% {
     transform: scale(2.7);
   }
 }
 
 @keyframes scale-2p8 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
+  100% {
     transform: scale(2.8);
   }
 }
 
 @keyframes scale-2p9 {
   0% {
-    transform: scale(2);
+    transform: scale(1);
   }
 
-  200% {
+  100% {
     transform: scale(2.9);
   }
 }
 
-@keyframes scale-3p3 {
+@keyframes scale-3 {
   0% {
-    transform: scale(3);
+    transform: scale(1);
   }
 
-  300% {
-    transform: scale(3.3);
+  100% {
+    transform: scale(3);
+  }
+}
+
+@keyframes scale-3p1 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(3.1);
+  }
+}
+
+@keyframes scale-3p2 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(3.2);
   }
 }
 
 @keyframes scale-3p3 {
   0% {
-    transform: scale(3);
+    transform: scale(1);
   }
 
-  300% {
-    transform: scale(3.3);
-  }
-}
-
-@keyframes scale-3p3 {
-  0% {
-    transform: scale(3);
-  }
-
-  300% {
+  100% {
     transform: scale(3.3);
   }
 }
 
 @keyframes scale-3p4 {
   0% {
-    transform: scale(3);
+    transform: scale(1);
   }
 
-  300% {
+  100% {
     transform: scale(3.4);
   }
 }
 
 @keyframes scale-3p5 {
   0% {
-    transform: scale(3);
+    transform: scale(1);
   }
 
-  300% {
+  100% {
     transform: scale(3.5);
   }
 }
 
 @keyframes scale-3p6 {
   0% {
-    transform: scale(3);
+    transform: scale(1);
   }
 
-  300% {
-    transform: scale(3.6);
-  }
-}
-
-@keyframes scale-3p5 {
-  0% {
-    transform: scale(3);
-  }
-
-  300% {
-    transform: scale(3.5);
-  }
-}
-
-@keyframes scale-3p6 {
-  0% {
-    transform: scale(3);
-  }
-
-  300% {
+  100% {
     transform: scale(3.6);
   }
 }
 
 @keyframes scale-3p7 {
   0% {
-    transform: scale(3);
+    transform: scale(1);
   }
 
-  300% {
+  100% {
     transform: scale(3.7);
   }
 }
 
 @keyframes scale-3p8 {
   0% {
-    transform: scale(3);
+    transform: scale(1);
   }
 
-  300% {
+  100% {
     transform: scale(3.8);
   }
 }
 
 @keyframes scale-3p9 {
   0% {
-    transform: scale(3);
+    transform: scale(1);
   }
 
-  300% {
+  100% {
     transform: scale(3.9);
   }
 }
 
-
-@keyframes scale-4p4 {
+@keyframes scale-4 {
   0% {
-    transform: scale(4);
+    transform: scale(1);
   }
 
-  400% {
-    transform: scale(4.4);
+  100% {
+    transform: scale(4);
+  }
+}
+
+@keyframes scale-4p1 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(4.1);
+  }
+}
+
+@keyframes scale-4p2 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(4.2);
+  }
+}
+
+@keyframes scale-4p3 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(4.3);
   }
 }
 
 @keyframes scale-4p4 {
   0% {
-    transform: scale(4);
+    transform: scale(1);
   }
 
-  400% {
-    transform: scale(4.4);
-  }
-}
-
-@keyframes scale-4p4 {
-  0% {
-    transform: scale(4);
-  }
-
-  400% {
-    transform: scale(4.4);
-  }
-}
-
-@keyframes scale-4p4 {
-  0% {
-    transform: scale(4);
-  }
-
-  400% {
+  100% {
     transform: scale(4.4);
   }
 }
 
 @keyframes scale-4p5 {
   0% {
-    transform: scale(4);
+    transform: scale(1);
   }
 
-  400% {
+  100% {
     transform: scale(4.5);
   }
 }
 
 @keyframes scale-4p6 {
   0% {
-    transform: scale(4);
+    transform: scale(1);
   }
 
-  400% {
+  100% {
     transform: scale(4.6);
   }
 }
-
-@keyframes scale-4p5 {
-  0% {
-    transform: scale(4);
-  }
-
-  400% {
-    transform: scale(4.5);
-  }
-}
-
-@keyframes scale-4p6 {
-  0% {
-    transform: scale(4);
-  }
-
-  400% {
-    transform: scale(4.6);
-  }
-}
-
 
 @keyframes scale-4p7 {
   0% {
-    transform: scale(4);
+    transform: scale(1);
   }
 
-  400% {
+  100% {
     transform: scale(4.7);
   }
 }
 
 @keyframes scale-4p8 {
   0% {
-    transform: scale(4);
+    transform: scale(1);
   }
 
-  400% {
+  100% {
     transform: scale(4.8);
   }
 }
 
-
 @keyframes scale-4p9 {
   0% {
-    transform: scale(4);
+    transform: scale(1);
   }
 
-  400% {
+  100% {
     transform: scale(4.9);
+  }
+}
+
+@keyframes scale-5 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(5);
   }
 }
