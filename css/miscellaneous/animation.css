@@ -2,6 +2,11 @@
   animation: none;
 }
 
+.freeze {
+  animation-fill-mode: forwards;
+}
+
+
 .inverse {
   animation: inverse 2s ease-in-out;
 }
@@ -45,7 +50,7 @@
 
 .Afrom-right {
   animation-name: from-right;
-  animation-timing-function: ease-in-out
+  animation-timing-function: ease-in-out;
 }
 
 .from-right-full {
@@ -602,88 +607,89 @@
   animation-iteration-count: infinite;
 }
 
-.s1 {
-  animation-duration: 1;
+.time-1s {
+  animation-duration: 1s;
 }
 
-.s2 {
-  animation-duration: 2;
+.time-2s {
+  animation-duration: 2s;
 }
 
-.s3 {
-  animation-duration: 3;
+.time-3s {
+  animation-duration: 3s;
 }
 
-.s4 {
-  animation-duration: 4;
+.time-4s {
+  animation-duration: 4s;
 }
 
-.s5 {
-  animation-duration: 5;
+.time-5s {
+  animation-duration: 5s;
 }
 
-.s6 {
-  animation-duration: 6;
+.time-6s {
+  animation-duration: 6s;
 }
 
-.s7 {
-  animation-duration: 7;
+.time-7s {
+  animation-duration: 7s;
 }
 
-.s8 {
-  animation-duration: 8;
+.time-8s {
+  animation-duration: 8s;
 }
 
-.s9 {
-  animation-duration: 9;
+.time-9s {
+  animation-duration: 9s;
 }
 
-.s10 {
-  animation-duration: 10;
+.time-10s {
+  animation-duration: 10s;
 }
 
-.sp5 {
-  animation-duration: 0.5;
+.time-0p5s {
+  animation-duration: 0.5s;
 }
 
-.s1p {
-  animation-duration: 1.5;
+
+.time-1p5s {
+  animation-duration: 1.5s;
 }
 
-.s2p {
-  animation-duration: 2.5;
+.time-2p5s {
+  animation-duration: 2.5s;
 }
 
-.s3p {
-  animation-duration: 3.5;
+.time-3p5s {
+  animation-duration: 3.5s;
 }
 
-.s4p {
-  animation-duration: 4.5;
+.time-4p5s {
+  animation-duration: 4.5s;
 }
 
-.s5p {
-  animation-duration: 5.5;
+.time-5p5s {
+  animation-duration: 5.5s;
 }
 
-.s6p {
-  animation-duration: 6.5;
+.time-6p5s {
+  animation-duration: 6.5s;
 }
 
-.s7p {
-  animation-duration: 7.5;
+.time-7p5s {
+  animation-duration: 7.5s;
 }
 
-.s8p {
-  animation-duration: 8.5;
+.time-8p5s {
+  animation-duration: 8.5s;
 }
 
-.s9p {
-  animation-duration: 9.5;
+.time-9p5s {
+  animation-duration: 9.5s;
 }
 
-.s10p {
-  animation-duration: 10.5;
+.time-10p5s {
+  animation-duration: 10.5s;
 }
 
 @keyframes from-left {
