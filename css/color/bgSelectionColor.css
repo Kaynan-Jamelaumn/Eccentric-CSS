@@ -267,55 +267,55 @@
   background-color: var(--green-pale);
 }
 
-.bg-selection-green-shade-1::selection {
+.bg-selection-green-1::selection {
   background-color: var(--green-shade-1);
 }
 
-.bg-selection-green-shade-2::selection {
+.bg-selection-green-2::selection {
   background-color: var(--green-shade-2);
 }
 
-.bg-selection-green-shade-3::selection {
+.bg-selection-green-3::selection {
   background-color: var(--green-shade-3);
 }
 
-.bg-selection-green-shade-4::selection {
+.bg-selection-green-4::selection {
   background-color: var(--green-shade-4);
 }
 
-.bg-selection-green-shade-5::selection {
+.bg-selection-green-5::selection {
   background-color: var(--green-shade-5);
 }
 
-.bg-selection-green-shade-6::selection {
+.bg-selection-green-6::selection {
   background-color: var(--green-shade-6);
 }
 
-.bg-selection-green-shade-7::selection {
+.bg-selection-green-7::selection {
   background-color: var(--green-shade-7);
 }
 
-.bg-selection-green-shade-8::selection {
+.bg-selection-green-8::selection {
   background-color: var(--green-shade-8);
 }
 
-.bg-selection-green-shade-9::selection {
+.bg-selection-green-9::selection {
   background-color: var(--green-shade-9);
 }
 
-.bg-selection-green-shade-10::selection {
+.bg-selection-green-10::selection {
   background-color: var(--green-shade-10);
 }
 
-.bg-selection-green-shade-11::selection {
+.bg-selection-green-11::selection {
   background-color: var(--green-shade-11);
 }
 
-.bg-selection-green-shade-12::selection {
+.bg-selection-green-12::selection {
   background-color: var(--green-shade-12);
 }
 
-.bg-selection-green-shade-13::selection {
+.bg-selection-green-13::selection {
   background-color: var(--green-shade-13);
 }
 
@@ -332,23 +332,23 @@
   background-color: var(--white-pale);
 }
 
-.bg-selection-white-shade-1::selection {
+.bg-selection-white-1::selection {
   background-color: var(--white-shade-1);
 }
 
-.bg-selection-white-shade-2::selection {
+.bg-selection-white-2::selection {
   background-color: var(--white-shade-2);
 }
 
-.bg-selection-white-shade-3::selection {
+.bg-selection-white-3::selection {
   background-color: var(--white-shade-3);
 }
 
-.bg-selection-white-shade-4::selection {
+.bg-selection-white-4::selection {
   background-color: var(--white-shade-4);
 }
 
-.bg-selection-white-shade-5::selection {
+.bg-selection-white-5::selection {
   background-color: var(--white-shade-5);
 }
 
@@ -409,621 +409,46 @@
   background-color: var(--black-vibrant);
 }
 
-.bg-selection-black-shade-1::selection {
+.bg-selection-black-1::selection {
   background-color: var(--black-shade-1);
 }
 
-.bg-selection-black-shade-2::selection {
+.bg-selection-black-2::selection {
   background-color: var(--black-shade-2);
 }
 
-.bg-selection-black-shade-3::selection {
+.bg-selection-black-3::selection {
   background-color: var(--black-shade-3);
 }
 
-.bg-selection-black-shade-4::selection {
+.bg-selection-black-4::selection {
   background-color: var(--black-shade-4);
 }
 
-.bg-selection-black-shade-5::selection {
+.bg-selection-black-5::selection {
   background-color: var(--black-shade-5);
 }
 
-.bg-selection-black-shade-6::selection {
+.bg-selection-black-6::selection {
   background-color: var(--black-shade-6);
 }
 
-.bg-selection-black-shade-7::selection {
+.bg-selection-black-7::selection {
   background-color: var(--black-shade-7);
 }
 
-.bg-selection-black-shade-8::selection {
+.bg-selection-black-8::selection {
   background-color: var(--black-shade-8);
 }
 
-.bg-selection-black-shade-9::selection {
+.bg-selection-black-9::selection {
   background-color: var(--black-shade-9);
 }
 
-.bg-selection-black-shade-10::selection {
+.bg-selection-black-10::selection {
   background-color: var(--black-shade-10);
 }
 
-.bg-selection-black-shade-11::selection {
-  background-color: var(--black-shade-11);
-}
-
-.bg-selection-yellow-active:hover::selection,
-.bg-selection-yellow-active:active::selection {
-  background-color: var(--yellow);
-}
-
-.bg-selection-yellow-1-active:hover::selection,
-.bg-selection-yellow-1-active:active::selection {
-  background-color: var(--yellow-shade-1);
-}
-
-.bg-selection-yellow-2-active:hover::selection,
-.bg-selection-yellow-2-active:active::selection {
-  background-color: var(--yellow-shade-2);
-}
-
-.bg-selection-yellow-3-active:hover::selection,
-.bg-selection-yellow-3-active:active::selection {
-  background-color: var(--yellow-shade-3);
-}
-
-.bg-selection-yellow-4-active:hover::selection,
-.bg-selection-yellow-4-active:active::selection {
-  background-color: var(--yellow-shade-4);
-}
-
-.bg-selection-yellow-5-active:hover::selection,
-.bg-selection-yellow-5-active:active::selection {
-  background-color: var(--yellow-shade-5);
-}
-
-.bg-selection-yellow-6-active:hover::selection,
-.bg-selection-yellow-6-active:active::selection {
-  background-color: var(--yellow-shade-6);
-}
-
-.bg-selection-yellow-7-active:hover::selection,
-.bg-selection-yellow-7-active:active::selection {
-  background-color: var(--yellow-shade-7);
-}
-
-.bg-selection-yellow-8-active:hover::selection,
-.bg-selection-yellow-8-active:active::selection {
-  background-color: var(--yellow-shade-8);
-}
-
-.bg-selection-yellow-9-active:hover::selection,
-.bg-selection-yellow-9-active:active::selection {
-  background-color: var(--yellow-shade-9);
-}
-
-.bg-selection-yellow-10-active:hover::selection,
-.bg-selection-yellow-10-active:active::selection {
-  background-color: var(--yellow-shade-10);
-}
-
-.bg-selection-orange-active:hover::selection,
-.bg-selection-orange-active:active::selection {
-  background-color: var(--orange);
-}
-
-.bg-selection-orange-vibrant-active:hover::selection,
-.bg-selection-orange-vibrant-active:active::selection {
-  background-color: var(--orange-vibrant);
-}
-
-.bg-selection-orange-1-active:hover::selection,
-.bg-selection-orange-1-active:active::selection {
-  background-color: var(--orange-shade-1);
-}
-
-.bg-selection-orange-2-active:hover::selection,
-.bg-selection-orange-2-active:active::selection {
-  background-color: var(--orange-shade-2);
-}
-
-.bg-selection-orange-3-active:hover::selection,
-.bg-selection-orange-3-active:active::selection {
-  background-color: var(--orange-shade-3);
-}
-
-.bg-selection-orange-4-active:hover::selection,
-.bg-selection-orange-4-active:active::selection {
-  background-color: var(--orange-shade-4);
-}
-
-.bg-selection-orange-5-active:hover::selection,
-.bg-selection-orange-5-active:active::selection {
-  background-color: var(--orange-shade-5);
-}
-
-.bg-selection-orange-6-active:hover::selection,
-.bg-selection-orange-6-active:active::selection {
-  background-color: var(--orange-shade-6);
-}
-
-.bg-selection-red-active:hover::selection,
-.bg-selection-red-active:active::selection {
-  background-color: var(--red);
-}
-
-.bg-selection-red-pale-active:hover::selection,
-.bg-selection-red-pale-active:active::selection {
-  background-color: var(--red-pale);
-}
-
-.bg-selection-red-1-active:hover::selection,
-.bg-selection-red-1-active:active::selection {
-  background-color: var(--red-shade-1);
-}
-
-.bg-selection-red-2-active:hover::selection,
-.bg-selection-red-2-active:active::selection {
-  background-color: var(--red-shade-2);
-}
-
-.bg-selection-red-3-active:hover::selection,
-.bg-selection-red-3-active:active::selection {
-  background-color: var(--red-shade-3);
-}
-
-.bg-selection-red-4-active:hover::selection,
-.bg-selection-red-4-active:active::selection {
-  background-color: var(--red-shade-4);
-}
-
-.bg-selection-pink-active:hover::selection,
-.bg-selection-pink-active:active::selection {
-  background-color: var(--pink);
-}
-
-.bg-selection-pink-1-active:hover::selection,
-.bg-selection-pink-1-active:active::selection {
-  background-color: var(--pink-shade-1);
-}
-
-.bg-selection-pink-2-active:hover::selection,
-.bg-selection-pink-2-active:active::selection {
-  background-color: var(--pink-shade-2);
-}
-
-.bg-selection-pink-3-active:hover::selection,
-.bg-selection-pink-3-active:active::selection {
-  background-color: var(--pink-shade-3);
-}
-
-.bg-selection-pink-4-active:hover::selection,
-.bg-selection-pink-4-active:active::selection {
-  background-color: var(--pink-shade-4);
-}
-
-.bg-selection-pink-5-active:hover::selection,
-.bg-selection-pink-5-active:active::selection {
-  background-color: var(--pink-shade-5);
-}
-
-.bg-selection-pink-6-active:hover::selection,
-.bg-selection-pink-6-active:active::selection {
-  background-color: var(--pink-shade-6);
-}
-
-.bg-selection-pink-7-active:hover::selection,
-.bg-selection-pink-7-active:active::selection {
-  background-color: var(--pink-shade-7);
-}
-
-.bg-selection-pink-8-active:hover::selection,
-.bg-selection-pink-8-active:active::selection {
-  background-color: var(--pink-shade-8);
-}
-
-.bg-selection-pink-9-active:hover::selection,
-.bg-selection-pink-9-active:active::selection {
-  background-color: var(--pink-shade-9);
-}
-
-.bg-selection-purple-active:hover::selection,
-.bg-selection-purple-active:active::selection {
-  background-color: var(--purple);
-}
-
-.bg-selection-purple-pale-active:hover::selection,
-.bg-selection-purple-pale-active:active::selection {
-  background-color: var(--purple-pale);
-}
-
-.bg-selection-purple-1-active:hover::selection,
-.bg-selection-purple-1-active:active::selection {
-  background-color: var(--purple-shade-1);
-}
-
-.bg-selection-purple-2-active:hover::selection,
-.bg-selection-purple-2-active:active::selection {
-  background-color: var(--purple-shade-2);
-}
-
-.bg-selection-purple-3-active:hover::selection,
-.bg-selection-purple-3-active:active::selection {
-  background-color: var(--purple-shade-3);
-}
-
-.bg-selection-purple-4-active:hover::selection,
-.bg-selection-purple-4-active:active::selection {
-  background-color: var(--purple-shade-4);
-}
-
-.bg-selection-purple-5-active:hover::selection,
-.bg-selection-purple-5-active:active::selection {
-  background-color: var(--purple-shade-5);
-}
-
-.bg-selection-purple-6-active:hover::selection,
-.bg-selection-purple-6-active:active::selection {
-  background-color: var(--purple-shade-6);
-}
-
-.bg-selection-purple-7-active:hover::selection,
-.bg-selection-purple-7-active:active::selection {
-  background-color: var(--purple-shade-7);
-}
-
-.bg-selection-purple-8-active:hover::selection,
-.bg-selection-purple-8-active:active::selection {
-  background-color: var(--purple-shade-8);
-}
-
-.bg-selection-purple-9-active:hover::selection,
-.bg-selection-purple-9-active:active::selection {
-  background-color: var(--purple-shade-9);
-}
-
-.bg-selection-purple-10-active:hover::selection,
-.bg-selection-purple-10-active:active::selection {
-  background-color: var(--purple-shade-10);
-}
-
-.bg-selection-blue-active:hover::selection,
-.bg-selection-blue-active:active::selection {
-  background-color: var(--blue);
-}
-
-.bg-selection-blue-pale-active:hover::selection,
-.bg-selection-blue-pale-active:active::selection {
-  background-color: var(--blue-pale);
-}
-
-.bg-selection-blue-dead-active:hover::selection,
-.bg-selection-blue-dead-active:active::selection {
-  background-color: var(--blue-dead);
-}
-
-.bg-selection-blue-1-active:hover::selection,
-.bg-selection-blue-1-active:active::selection {
-  background-color: var(--blue-shade-1);
-}
-
-.bg-selection-blue-2-active:hover::selection,
-.bg-selection-blue-2-active:active::selection {
-  background-color: var(--blue-shade-2);
-}
-
-.bg-selection-blue-3-active:hover::selection,
-.bg-selection-blue-3-active:active::selection {
-  background-color: var(--blue-shade-3);
-}
-
-.bg-selection-blue-4-active:hover::selection,
-.bg-selection-blue-4-active:active::selection {
-  background-color: var(--blue-shade-4);
-}
-
-.bg-selection-blue-5-active:hover::selection,
-.bg-selection-blue-5-active:active::selection {
-  background-color: var(--blue-shade-5);
-}
-
-.bg-selection-blue-6-active:hover::selection,
-.bg-selection-blue-6-active:active::selection {
-  background-color: var(--blue-shade-6);
-}
-
-.bg-selection-blue-7-active:hover::selection,
-.bg-selection-blue-7-active:active::selection {
-  background-color: var(--blue-shade-7);
-}
-
-.bg-selection-blue-8-active:hover::selection,
-.bg-selection-blue-8-active:active::selection {
-  background-color: var(--blue-shade-8);
-}
-
-.bg-selection-blue-9-active:hover::selection,
-.bg-selection-blue-9-active:active::selection {
-  background-color: var(--blue-shade-9);
-}
-
-.bg-selection-blue-10-active:hover::selection,
-.bg-selection-blue-10-active:active::selection {
-  background-color: var(--blue-shade-10);
-}
-
-.bg-selection-blue-11-active:hover::selection,
-.bg-selection-blue-11-active:active::selection {
-  background-color: var(--blue-shade-11);
-}
-
-.bg-selection-blue-12-active:hover::selection,
-.bg-selection-blue-12-active:active::selection {
-  background-color: var(--blue-shade-12);
-}
-
-.bg-selection-blue-13-active:hover::selection,
-.bg-selection-blue-13-active:active::selection {
-  background-color: var(--blue-shade-13);
-}
-
-.bg-selection-blue-14-active:hover::selection,
-.bg-selection-blue-14-active:active::selection {
-  background-color: var(--blue-shade-14);
-}
-
-.bg-selection-blue-15-active:hover::selection,
-.bg-selection-blue-15-active:active::selection {
-  background-color: var(--blue-shade-15);
-}
-
-.bg-selection-blue-16-active:hover::selection,
-.bg-selection-blue-16-active:active::selection {
-  background-color: var(--blue-shade-16);
-}
-
-.bg-selection-blue-17-active:hover::selection,
-.bg-selection-blue-17-active:active::selection {
-  background-color: var(--blue-shade-17);
-}
-
-.bg-selection-green-active:hover::selection,
-.bg-selection-green-active:active::selection {
-  background-color: var(--green);
-}
-
-.bg-selection-green-pale-active:hover::selection,
-.bg-selection-green-pale-active:active::selection {
-  background-color: var(--green-pale);
-}
-
-.bg-selection-green-1-active:hover::selection,
-.bg-selection-green-1-active:active::selection {
-  background-color: var(--green-shade-1);
-}
-
-.bg-selection-green-2-active:hover::selection,
-.bg-selection-green-2-active:active::selection {
-  background-color: var(--green-shade-2);
-}
-
-.bg-selection-green-3-active:hover::selection,
-.bg-selection-green-3-active:active::selection {
-  background-color: var(--green-shade-3);
-}
-
-.bg-selection-green-4-active:hover::selection,
-.bg-selection-green-4-active:active::selection {
-  background-color: var(--green-shade-4);
-}
-
-.bg-selection-green-5-active:hover::selection,
-.bg-selection-green-5-active:active::selection {
-  background-color: var(--green-shade-5);
-}
-
-.bg-selection-green-6-active:hover::selection,
-.bg-selection-green-6-active:active::selection {
-  background-color: var(--green-shade-6);
-}
-
-.bg-selection-green-7-active:hover::selection,
-.bg-selection-green-7-active:active::selection {
-  background-color: var(--green-shade-7);
-}
-
-.bg-selection-green-8-active:hover::selection,
-.bg-selection-green-8-active:active::selection {
-  background-color: var(--green-shade-8);
-}
-
-.bg-selection-green-9-active:hover::selection,
-.bg-selection-green-9-active:active::selection {
-  background-color: var(--green-shade-9);
-}
-
-.bg-selection-green-10-active:hover::selection,
-.bg-selection-green-10-active:active::selection {
-  background-color: var(--green-shade-10);
-}
-
-.bg-selection-green-11-active:hover::selection,
-.bg-selection-green-11-active:active::selection {
-  background-color: var(--green-shade-11);
-}
-
-.bg-selection-green-12-active:hover::selection,
-.bg-selection-green-12-active:active::selection {
-  background-color: var(--green-shade-12);
-}
-
-.bg-selection-green-13-active:hover::selection,
-.bg-selection-green-13-active:active::selection {
-  background-color: var(--green-shade-13);
-}
-
-.bg-selection-white-active:hover::selection,
-.bg-selection-white-active:active::selection {
-  background-color: var(--white);
-}
-
-.bg-selection-white-vibrant-active:hover::selection,
-.bg-selection-white-vibrant-active:active::selection {
-  background-color: var(--white-vibrant);
-}
-
-.bg-selection-white-pale-active:hover::selection,
-.bg-selection-white-pale-active:active::selection {
-  background-color: var(--white-pale);
-}
-
-.bg-selection-white-shade-1-active:hover::selection,
-.bg-selection-white-shade-1-active:active::selection {
-  background-color: var(--white-shade-1);
-}
-
-.bg-selection-white-shade-2-active:hover::selection,
-.bg-selection-white-shade-2-active:active::selection {
-  background-color: var(--white-shade-2);
-}
-
-.bg-selection-white-shade-3-active:hover::selection,
-.bg-selection-white-shade-3-active:active::selection {
-  background-color: var(--white-shade3);
-}
-
-.bg-selection-white-shade-4-active:hover::selection,
-.bg-selection-white-shade-4-active:active::selection {
-  background-color: var(--white-shade-4);
-}
-
-.bg-selection-white-shade-5-active:hover::selection,
-.bg-selection-white-shade-5-active:active::selection {
-  background-color: var(--white-shade-5);
-}
-
-.bg-selection-gray-active:hover::selection,
-.bg-selection-gray-active:active::selection {
-  background-color: var(--gray);
-}
-
-.bg-selection-gray-1-active:hover::selection,
-.bg-selection-gray-1-active:active::selection {
-  background-color: var(--gray-shade-1);
-}
-
-.bg-selection-gray-2-active:hover::selection,
-.bg-selection-gray-2-active:active::selection {
-  background-color: var(--gray-shade-2);
-}
-
-.bg-selection-gray-3-active:hover::selection,
-.bg-selection-gray-3-active:active::selection {
-  background-color: var(--gray-shade-3);
-}
-
-.bg-selection-gray-4-active:hover::selection,
-.bg-selection-gray-4-active:active::selection {
-  background-color: var(--gray-shade-4);
-}
-
-.bg-selection-gray-5-active:hover::selection,
-.bg-selection-gray-5-active:active::selection {
-  background-color: var(--gray-shade-5);
-}
-
-.bg-selection-gray-6-active:hover::selection,
-.bg-selection-gray-6-active:active::selection {
-  background-color: var(--gray-shade-6);
-}
-
-.bg-selection-gray-7-active:hover::selection,
-.bg-selection-gray-7-active:active::selection {
-  background-color: var(--gray-shade-7);
-}
-
-.bg-selection-gray-8-active:hover::selection,
-.bg-selection-gray-8-active:active::selection {
-  background-color: var(--gray-shade-8);
-}
-
-.bg-selection-gray-9-active:hover::selection,
-.bg-selection-gray-9-active:active::selection {
-  background-color: var(--gray-shade-9);
-}
-
-.bg-selection-gray-10-active:hover::selection,
-.bg-selection-gray-10-active:active::selection {
-  background-color: var(--gray-shade-10);
-}
-
-.bg-selection-black-active:hover::selection,
-.bg-selection-black-active:active::selection {
-  background-color: var(--black);
-}
-
-.bg-selection-black-pale-active:hover::selection,
-.bg-selection-black-pale-active:active::selection {
-  background-color: var(--black-pale);
-}
-
-.bg-selection-black-vibrant-active:hover::selection,
-.bg-selection-black-vibrant-active:active::selection {
-  background-color: var(--black-vibrant);
-}
-
-.bg-selection-black-1-active:hover::selection,
-.bg-selection-black-1-active:active::selection {
-  background-color: var(--black-shade-1);
-}
-
-.bg-selection-black-2-active:hover::selection,
-.bg-selection-black-2-active:active::selection {
-  background-color: var(--black-shade-2);
-}
-
-.bg-selection-black-3-active:hover::selection,
-.bg-selection-black-3-active:active::selection {
-  background-color: var(--black-shade-3);
-}
-
-.bg-selection-black-4-active:hover::selection,
-.bg-selection-black-4-active:active::selection {
-  background-color: var(--black-shade-4);
-}
-
-.bg-selection-black-5-active:hover::selection,
-.bg-selection-black-5-active:active::selection {
-  background-color: var(--black-shade-5);
-}
-
-.bg-selection-black-6-active:hover::selection,
-.bg-selection-black-6-active:active::selection {
-  background-color: var(--black-shade-6);
-}
-
-.bg-selection-black-7-active:hover::selection,
-.bg-selection-black-7-active:active::selection {
-  background-color: var(--black-shade-7);
-}
-
-.bg-selection-black-8-active:hover::selection,
-.bg-selection-black-8-active:active::selection {
-  background-color: var(--black-shade-8);
-}
-
-.bg-selection-black-9-active:hover::selection,
-.bg-selection-black-9-active:active::selection {
-  background-color: var(--black-shade-9);
-}
-
-.bg-selection-black-10-active:hover::selection,
-.bg-selection-black-10-active:active::selection {
-  background-color: var(--black-shade-10);
-}
-
-.bg-selection-black-11-active:hover::selection,
-.bg-selection-black-11-active:active::selection {
+.bg-selection-black-11::selection {
   background-color: var(--black-shade-11);
 }

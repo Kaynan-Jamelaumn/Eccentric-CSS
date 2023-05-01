@@ -1,5 +1,6 @@
 .w100 {
   width: 100%;
+  max-width: 100%;
 }
 
 .w95 {
@@ -55,7 +56,7 @@
 }
 
 .w33 {
-  width: 33.33%;
+  width: 33.333333%;
 }
 
 .w30 {
@@ -140,7 +141,7 @@
 }
 
 .vw33 {
-  width: 33.33vw;
+  width: 33.333333vw;
 }
 
 .vw30 {
@@ -787,6 +788,7 @@
 .line {
   display: flex;
   flex-wrap: wrap;
+  max-width: 100%;
 }
 
 .line-expand {
@@ -981,6 +983,18 @@
   position: relative;
   flex: 1 0 35%;
   min-width: 35%;
+}
+
+.line>.w33 {
+  position: relative;
+  flex: 0 0 33%;
+  max-width: 33%;
+}
+
+.line-expand>.w33 {
+  position: relative;
+  flex: 1 0 33%;
+  min-width: 33%;
 }
 
 .line>.w30 {
@@ -1722,6 +1736,18 @@
     min-width: 35%;
   }
 
+  .line>.w33-xxs {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xxs {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
   .line .w30-xxs {
     position: relative;
     flex: 0 0 30%;
@@ -2182,6 +2208,18 @@
     min-width: 35%;
   }
 
+  .line>.w33-xs {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xs {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
   .line .w30-xs {
     position: relative;
     flex: 0 0 30%;
@@ -2329,7 +2367,7 @@
   }
 
   .w33-s {
-    width: 33.33%;
+    width: 33.333333%;
   }
 
   .w30-s {
@@ -2413,8 +2451,8 @@
     width: 35vw;
   }
 
-  .vw33 {
-    width: 33.33vw;
+  .vw33-s {
+    width: 33.333333vw;
   }
 
   .vw30-s {
@@ -2651,6 +2689,18 @@
     min-width: 35%;
   }
 
+  .line>.w33-s {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-s {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
   .line .w30-s {
     position: relative;
     flex: 0 0 30%;
@@ -2796,7 +2846,7 @@
   }
 
   .w33-m {
-    width: 33.33%;
+    width: 33.333333%;
   }
 
   .w30-m {
@@ -2881,7 +2931,7 @@
   }
 
   .vw33-m {
-    width: 33.33vw;
+    width: 33.333333vw;
   }
 
   .vw30-m {
@@ -3118,6 +3168,19 @@
     min-width: 35%;
   }
 
+  .line>.w33-m {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-m {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
   .line .w30-m {
     position: relative;
     flex: 0 0 30%;
@@ -3263,7 +3326,7 @@
   }
 
   .w33-l {
-    width: 33.33%;
+    width: 33.333333%;
   }
 
   .w30-l {
@@ -3348,7 +3411,7 @@
   }
 
   .vw33-l {
-    width: 33.33vw;
+    width: 33.333333vw;
   }
 
   .vw30-l {
@@ -3585,6 +3648,19 @@
     min-width: 35%;
   }
 
+  .line>.w33-l {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-l {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
   .line .w30-l {
     position: relative;
     flex: 0 0 30%;
@@ -3734,7 +3810,7 @@
   }
 
   .w33-xl {
-    width: 33.33%;
+    width: 33.333333%;
   }
 
   .w25-xl {
@@ -3815,7 +3891,7 @@
   }
 
   .vw33-xl {
-    width: 33.33vw;
+    width: 33.333333vw;
   }
 
   .vw30-xl {
@@ -4052,6 +4128,20 @@
     min-width: 35%;
   }
 
+  .line>.w33-xl {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xl {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
+
   .line .w30-xl {
     position: relative;
     flex: 0 0 30%;
@@ -4197,7 +4287,7 @@
   }
 
   .w33-xxl {
-    width: 33.33%;
+    width: 33.333333%;
   }
 
   .w30-xxl {
@@ -4282,7 +4372,7 @@
   }
 
   .vw33-xxl {
-    width: 33.33.33vw;
+    width: 33.333333.33vw;
   }
 
   .vw30-xxl {
@@ -4519,6 +4609,20 @@
     min-width: 35%;
   }
 
+  .line>.w33-xl {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xl {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
+
   .line .w30-xxl {
     position: relative;
     flex: 0 0 30%;
@@ -4665,7 +4769,7 @@
   }
 
   .w33-xxxl {
-    width: 33.33%;
+    width: 33.333333%;
   }
 
   .w30-xxxl {
@@ -4750,7 +4854,7 @@
   }
 
   .vw33-xxxl {
-    width: 33.33.33vw;
+    width: 33.333333.33vw;
   }
 
   .vw30-xxxl {
@@ -4986,6 +5090,19 @@
 
     min-width: 35%;
   }
+
+  .line>.w33-xxxl {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xxxl {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
 
   .line .w30-xxxl {
     position: relative;

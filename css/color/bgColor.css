@@ -1,3 +1,7 @@
+.bg-transparent {
+  background-color: transparent;
+}
+
 .bg-yellow {
   background-color: var(--yellow);
 }
@@ -267,55 +271,55 @@
   background-color: var(--green-pale);
 }
 
-.bg-green-shade-1 {
+.bg-green-1 {
   background-color: var(--green-shade-1);
 }
 
-.bg-green-shade-2 {
+.bg-green-2 {
   background-color: var(--green-shade-2);
 }
 
-.bg-green-shade-3 {
+.bg-green-3 {
   background-color: var(--green-shade-3);
 }
 
-.bg-green-shade-4 {
+.bg-green-4 {
   background-color: var(--green-shade-4);
 }
 
-.bg-green-shade-5 {
+.bg-green-5 {
   background-color: var(--green-shade-5);
 }
 
-.bg-green-shade-6 {
+.bg-green-6 {
   background-color: var(--green-shade-6);
 }
 
-.bg-green-shade-7 {
+.bg-green-7 {
   background-color: var(--green-shade-7);
 }
 
-.bg-green-shade-8 {
+.bg-green-8 {
   background-color: var(--green-shade-8);
 }
 
-.bg-green-shade-9 {
+.bg-green-9 {
   background-color: var(--green-shade-9);
 }
 
-.bg-green-shade-10 {
+.bg-green-10 {
   background-color: var(--green-shade-10);
 }
 
-.bg-green-shade-11 {
+.bg-green-11 {
   background-color: var(--green-shade-11);
 }
 
-.bg-green-shade-12 {
+.bg-green-12 {
   background-color: var(--green-shade-12);
 }
 
-.bg-green-shade-13 {
+.bg-green-13 {
   background-color: var(--green-shade-13);
 }
 
@@ -332,23 +336,23 @@
   background-color: var(--white-pale);
 }
 
-.bg-white-shade-1 {
+.bg-white-1 {
   background-color: var(--white-shade-1);
 }
 
-.bg-white-shade-2 {
+.bg-white-2 {
   background-color: var(--white-shade-2);
 }
 
-.bg-white-shade-3 {
+.bg-white-3 {
   background-color: var(--white-shade-3);
 }
 
-.bg-white-shade-4 {
+.bg-white-4 {
   background-color: var(--white-shade-4);
 }
 
-.bg-white-shade-5 {
+.bg-white-5 {
   background-color: var(--white-shade-5);
 }
 
@@ -409,47 +413,47 @@
   background-color: var(--black-vibrant);
 }
 
-.bg-black-shade-1 {
+.bg-black-1 {
   background-color: var(--black-shade-1);
 }
 
-.bg-black-shade-2 {
+.bg-black-2 {
   background-color: var(--black-shade-2);
 }
 
-.bg-black-shade-3 {
+.bg-black-3 {
   background-color: var(--black-shade-3);
 }
 
-.bg-black-shade-4 {
+.bg-black-4 {
   background-color: var(--black-shade-4);
 }
 
-.bg-black-shade-5 {
+.bg-black-5 {
   background-color: var(--black-shade-5);
 }
 
-.bg-black-shade-6 {
+.bg-black-6 {
   background-color: var(--black-shade-6);
 }
 
-.bg-black-shade-7 {
+.bg-black-7 {
   background-color: var(--black-shade-7);
 }
 
-.bg-black-shade-8 {
+.bg-black-8 {
   background-color: var(--black-shade-8);
 }
 
-.bg-black-shade-9 {
+.bg-black-9 {
   background-color: var(--black-shade-9);
 }
 
-.bg-black-shade-10 {
+.bg-black-10 {
   background-color: var(--black-shade-10);
 }
 
-.bg-black-shade-11 {
+.bg-black-11 {
   background-color: var(--black-shade-11);
 }
 
@@ -878,28 +882,28 @@
   background-color: var(--white-pale);
 }
 
-.bg-white-shade-1-active:hover,
-.bg-white-shade-1-active:active {
+.bg-white-1-active:hover,
+.bg-white-1-active:active {
   background-color: var(--white-shade-1);
 }
 
-.bg-white-shade-2-active:hover,
-.bg-white-shade-2-active:active {
+.bg-white-2-active:hover,
+.bg-white-2-active:active {
   background-color: var(--white-shade-2);
 }
 
-.bg-white-shade-3-active:hover,
-.bg-white-shade-3-active:active {
+.bg-white-3-active:hover,
+.bg-white-3-active:active {
   background-color: var(--white-shade3);
 }
 
-.bg-white-shade-4-active:hover,
-.bg-white-shade-4-active:active {
+.bg-white-4-active:hover,
+.bg-white-4-active:active {
   background-color: var(--white-shade-4);
 }
 
-.bg-white-shade-5-active:hover,
-.bg-white-shade-5-active:active {
+.bg-white-5-active:hover,
+.bg-white-5-active:active {
   background-color: var(--white-shade-5);
 }
 

@@ -7,6 +7,127 @@
 }
 
 
+.time-1s {
+  animation-duration: 1s;
+}
+
+.time-2s {
+  animation-duration: 2s;
+}
+
+.time-3s {
+  animation-duration: 3s;
+}
+
+.time-4s {
+  animation-duration: 4s;
+}
+
+.time-5s {
+  animation-duration: 5s;
+}
+
+.time-6s {
+  animation-duration: 6s;
+}
+
+.time-7s {
+  animation-duration: 7s;
+}
+
+.time-8s {
+  animation-duration: 8s;
+}
+
+.time-9s {
+  animation-duration: 9s;
+}
+
+.time-10s {
+  animation-duration: 10s;
+}
+
+.time-0p2s {
+  animation-duration: 0.2s;
+}
+
+.time-0p3s {
+  animation-duration: 0.3s;
+}
+
+.time-0p4s {
+  animation-duration: 0.4s;
+}
+
+.time-0p5s {
+  animation-duration: 0.5s;
+}
+
+.time-0p6s {
+  animation-duration: 0.6s;
+}
+
+.time-0p7s {
+  animation-duration: 0.7s;
+}
+
+.time-0p8s {
+  animation-duration: 0.8s;
+}
+
+.time-0p9s {
+  animation-duration: 0.9s;
+}
+
+.time-1p2s {
+  animation-duration: 1.2s;
+}
+
+.time-1p5s {
+  animation-duration: 1.5s;
+}
+
+.time-1p8s {
+  animation-duration: 1.8s;
+}
+
+.time-2p5s {
+  animation-duration: 2.5s;
+}
+
+.time-3p5s {
+  animation-duration: 3.5s;
+}
+
+.time-4p5s {
+  animation-duration: 4.5s;
+}
+
+.time-5p5s {
+  animation-duration: 5.5s;
+}
+
+.time-6p5s {
+  animation-duration: 6.5s;
+}
+
+.time-7p5s {
+  animation-duration: 7.5s;
+}
+
+.time-8p5s {
+  animation-duration: 8.5s;
+}
+
+.time-9p5s {
+  animation-duration: 9.5s;
+}
+
+.time-10p5s {
+  animation-duration: 10.5s;
+}
+
+
 .inverse {
   animation: inverse 2s ease-in-out;
 }
@@ -605,91 +726,6 @@
 
 .infinite {
   animation-iteration-count: infinite;
-}
-
-.time-1s {
-  animation-duration: 1s;
-}
-
-.time-2s {
-  animation-duration: 2s;
-}
-
-.time-3s {
-  animation-duration: 3s;
-}
-
-.time-4s {
-  animation-duration: 4s;
-}
-
-.time-5s {
-  animation-duration: 5s;
-}
-
-.time-6s {
-  animation-duration: 6s;
-}
-
-.time-7s {
-  animation-duration: 7s;
-}
-
-.time-8s {
-  animation-duration: 8s;
-}
-
-.time-9s {
-  animation-duration: 9s;
-}
-
-.time-10s {
-  animation-duration: 10s;
-}
-
-.time-0p5s {
-  animation-duration: 0.5s;
-}
-
-
-.time-1p5s {
-  animation-duration: 1.5s;
-}
-
-.time-2p5s {
-  animation-duration: 2.5s;
-}
-
-.time-3p5s {
-  animation-duration: 3.5s;
-}
-
-.time-4p5s {
-  animation-duration: 4.5s;
-}
-
-.time-5p5s {
-  animation-duration: 5.5s;
-}
-
-.time-6p5s {
-  animation-duration: 6.5s;
-}
-
-.time-7p5s {
-  animation-duration: 7.5s;
-}
-
-.time-8p5s {
-  animation-duration: 8.5s;
-}
-
-.time-9p5s {
-  animation-duration: 9.5s;
-}
-
-.time-10p5s {
-  animation-duration: 10.5s;
 }
 
 @keyframes from-left {

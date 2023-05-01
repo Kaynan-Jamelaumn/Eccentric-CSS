@@ -7,6 +7,7 @@
   cursor: pointer;
 }
 
+
 .menu ul {
   list-style: none;
 }
@@ -55,6 +56,47 @@
   transition: top 0.5s ease-in-out;
 }
 
+@media screen and (max-width: 767px) {
+
+  /* largura da tela entre 481px e 767px */
+  .menu {
+    width: 350px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+
+  /* largura da tela menor ou igual a 480px */
+  .menu {
+    width: 300px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+  /* largura da tela entre 768px e 1023px */
+  .menu {
+    width: 400px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+
+  /* largura da tela entre 1024px e 1439px */
+  .menu {
+    width: 420px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+
+  /* largura da tela maior ou igual a 1440px */
+  .menu {
+    width: 450px;
+  }
+}
+
+/*
 .w100>.menu-right,
 .w100>.menu-left {
   width: 100%;
@@ -117,11 +159,10 @@
 
 .w40>.menu-right {
   width: 40%;
-
 }
 
 .w40>.menu-left {
-  width: 40%;
+  width: calc(min(40vw, 300px));
 }
 
 .w35>.menu-right,

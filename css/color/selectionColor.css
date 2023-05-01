@@ -267,55 +267,55 @@
   color: var(--green-pale);
 }
 
-.selection-green-shade-1::selection {
+.selection-green-1::selection {
   color: var(--green-shade-1);
 }
 
-.selection-green-shade-2::selection {
+.selection-green-2::selection {
   color: var(--green-shade-2);
 }
 
-.selection-green-shade-3::selection {
+.selection-green-3::selection {
   color: var(--green-shade-3);
 }
 
-.selection-green-shade-4::selection {
+.selection-green-4::selection {
   color: var(--green-shade-4);
 }
 
-.selection-green-shade-5::selection {
+.selection-green-5::selection {
   color: var(--green-shade-5);
 }
 
-.selection-green-shade-6::selection {
+.selection-green-6::selection {
   color: var(--green-shade-6);
 }
 
-.selection-green-shade-7::selection {
+.selection-green-7::selection {
   color: var(--green-shade-7);
 }
 
-.selection-green-shade-8::selection {
+.selection-green-8::selection {
   color: var(--green-shade-8);
 }
 
-.selection-green-shade-9::selection {
+.selection-green-9::selection {
   color: var(--green-shade-9);
 }
 
-.selection-green-shade-10::selection {
+.selection-green-10::selection {
   color: var(--green-shade-10);
 }
 
-.selection-green-shade-11::selection {
+.selection-green-11::selection {
   color: var(--green-shade-11);
 }
 
-.selection-green-shade-12::selection {
+.selection-green-12::selection {
   color: var(--green-shade-12);
 }
 
-.selection-green-shade-13::selection {
+.selection-green-13::selection {
   color: var(--green-shade-13);
 }
 
@@ -332,23 +332,23 @@
   color: var(--white-pale);
 }
 
-.selection-white-shade-1::selection {
+.selection-white-1::selection {
   color: var(--white-shade-1);
 }
 
-.selection-white-shade-2::selection {
+.selection-white-2::selection {
   color: var(--white-shade-2);
 }
 
-.selection-white-shade-3::selection {
+.selection-white-3::selection {
   color: var(--white-shade-3);
 }
 
-.selection-white-shade-4::selection {
+.selection-white-4::selection {
   color: var(--white-shade-4);
 }
 
-.selection-white-shade-5::selection {
+.selection-white-5::selection {
   color: var(--white-shade-5);
 }
 
@@ -409,621 +409,46 @@
   color: var(--black-vibrant);
 }
 
-.selection-black-shade-1::selection {
+.selection-black-1::selection {
   color: var(--black-shade-1);
 }
 
-.selection-black-shade-2::selection {
+.selection-black-2::selection {
   color: var(--black-shade-2);
 }
 
-.selection-black-shade-3::selection {
+.selection-black-3::selection {
   color: var(--black-shade-3);
 }
 
-.selection-black-shade-4::selection {
+.selection-black-4::selection {
   color: var(--black-shade-4);
 }
 
-.selection-black-shade-5::selection {
+.selection-black-5::selection {
   color: var(--black-shade-5);
 }
 
-.selection-black-shade-6::selection {
+.selection-black-6::selection {
   color: var(--black-shade-6);
 }
 
-.selection-black-shade-7::selection {
+.selection-black-7::selection {
   color: var(--black-shade-7);
 }
 
-.selection-black-shade-8::selection {
+.selection-black-8::selection {
   color: var(--black-shade-8);
 }
 
-.selection-black-shade-9::selection {
+.selection-black-9::selection {
   color: var(--black-shade-9);
 }
 
-.selection-black-shade-10::selection {
+.selection-black-10::selection {
   color: var(--black-shade-10);
 }
 
-.selection-black-shade-11::selection {
-  color: var(--black-shade-11);
-}
-
-.selection-yellow-active:hover::selection,
-.selection-yellow-active:active::selection {
-  color: var(--yellow);
-}
-
-.selection-yellow-1-active:hover::selection,
-.selection-yellow-1-active:active::selection {
-  color: var(--yellow-shade-1);
-}
-
-.selection-yellow-2-active:hover::selection,
-.selection-yellow-2-active:active::selection {
-  color: var(--yellow-shade-2);
-}
-
-.selection-yellow-3-active:hover::selection,
-.selection-yellow-3-active:active::selection {
-  color: var(--yellow-shade-3);
-}
-
-.selection-yellow-4-active:hover::selection,
-.selection-yellow-4-active:active::selection {
-  color: var(--yellow-shade-4);
-}
-
-.selection-yellow-5-active:hover::selection,
-.selection-yellow-5-active:active::selection {
-  color: var(--yellow-shade-5);
-}
-
-.selection-yellow-6-active:hover::selection,
-.selection-yellow-6-active:active::selection {
-  color: var(--yellow-shade-6);
-}
-
-.selection-yellow-7-active:hover::selection,
-.selection-yellow-7-active:active::selection {
-  color: var(--yellow-shade-7);
-}
-
-.selection-yellow-8-active:hover::selection,
-.selection-yellow-8-active:active::selection {
-  color: var(--yellow-shade-8);
-}
-
-.selection-yellow-9-active:hover::selection,
-.selection-yellow-9-active:active::selection {
-  color: var(--yellow-shade-9);
-}
-
-.selection-yellow-10-active:hover::selection,
-.selection-yellow-10-active:active::selection {
-  color: var(--yellow-shade-10);
-}
-
-.selection-orange-active:hover::selection,
-.selection-orange-active:active::selection {
-  color: var(--orange);
-}
-
-.selection-orange-vibrant-active:hover::selection,
-.selection-orange-vibrant-active:active::selection {
-  color: var(--orange-vibrant);
-}
-
-.selection-orange-1-active:hover::selection,
-.selection-orange-1-active:active::selection {
-  color: var(--orange-shade-1);
-}
-
-.selection-orange-2-active:hover::selection,
-.selection-orange-2-active:active::selection {
-  color: var(--orange-shade-2);
-}
-
-.selection-orange-3-active:hover::selection,
-.selection-orange-3-active:active::selection {
-  color: var(--orange-shade-3);
-}
-
-.selection-orange-4-active:hover::selection,
-.selection-orange-4-active:active::selection {
-  color: var(--orange-shade-4);
-}
-
-.selection-orange-5-active:hover::selection,
-.selection-orange-5-active:active::selection {
-  color: var(--orange-shade-5);
-}
-
-.selection-orange-6-active:hover::selection,
-.selection-orange-6-active:active::selection {
-  color: var(--orange-shade-6);
-}
-
-.selection-red-active:hover::selection,
-.selection-red-active:active::selection {
-  color: var(--red);
-}
-
-.selection-red-pale-active:hover::selection,
-.selection-red-pale-active:active::selection {
-  color: var(--red-pale);
-}
-
-.selection-red-1-active:hover::selection,
-.selection-red-1-active:active::selection {
-  color: var(--red-shade-1);
-}
-
-.selection-red-2-active:hover::selection,
-.selection-red-2-active:active::selection {
-  color: var(--red-shade-2);
-}
-
-.selection-red-3-active:hover::selection,
-.selection-red-3-active:active::selection {
-  color: var(--red-shade-3);
-}
-
-.selection-red-4-active:hover::selection,
-.selection-red-4-active:active::selection {
-  color: var(--red-shade-4);
-}
-
-.selection-pink-active:hover::selection,
-.selection-pink-active:active::selection {
-  color: var(--pink);
-}
-
-.selection-pink-1-active:hover::selection,
-.selection-pink-1-active:active::selection {
-  color: var(--pink-shade-1);
-}
-
-.selection-pink-2-active:hover::selection,
-.selection-pink-2-active:active::selection {
-  color: var(--pink-shade-2);
-}
-
-.selection-pink-3-active:hover::selection,
-.selection-pink-3-active:active::selection {
-  color: var(--pink-shade-3);
-}
-
-.selection-pink-4-active:hover::selection,
-.selection-pink-4-active:active::selection {
-  color: var(--pink-shade-4);
-}
-
-.selection-pink-5-active:hover::selection,
-.selection-pink-5-active:active::selection {
-  color: var(--pink-shade-5);
-}
-
-.selection-pink-6-active:hover::selection,
-.selection-pink-6-active:active::selection {
-  color: var(--pink-shade-6);
-}
-
-.selection-pink-7-active:hover::selection,
-.selection-pink-7-active:active::selection {
-  color: var(--pink-shade-7);
-}
-
-.selection-pink-8-active:hover::selection,
-.selection-pink-8-active:active::selection {
-  color: var(--pink-shade-8);
-}
-
-.selection-pink-9-active:hover::selection,
-.selection-pink-9-active:active::selection {
-  color: var(--pink-shade-9);
-}
-
-.selection-purple-active:hover::selection,
-.selection-purple-active:active::selection {
-  color: var(--purple);
-}
-
-.selection-purple-pale-active:hover::selection,
-.selection-purple-pale-active:active::selection {
-  color: var(--purple-pale);
-}
-
-.selection-purple-1-active:hover::selection,
-.selection-purple-1-active:active::selection {
-  color: var(--purple-shade-1);
-}
-
-.selection-purple-2-active:hover::selection,
-.selection-purple-2-active:active::selection {
-  color: var(--purple-shade-2);
-}
-
-.selection-purple-3-active:hover::selection,
-.selection-purple-3-active:active::selection {
-  color: var(--purple-shade-3);
-}
-
-.selection-purple-4-active:hover::selection,
-.selection-purple-4-active:active::selection {
-  color: var(--purple-shade-4);
-}
-
-.selection-purple-5-active:hover::selection,
-.selection-purple-5-active:active::selection {
-  color: var(--purple-shade-5);
-}
-
-.selection-purple-6-active:hover::selection,
-.selection-purple-6-active:active::selection {
-  color: var(--purple-shade-6);
-}
-
-.selection-purple-7-active:hover::selection,
-.selection-purple-7-active:active::selection {
-  color: var(--purple-shade-7);
-}
-
-.selection-purple-8-active:hover::selection,
-.selection-purple-8-active:active::selection {
-  color: var(--purple-shade-8);
-}
-
-.selection-purple-9-active:hover::selection,
-.selection-purple-9-active:active::selection {
-  color: var(--purple-shade-9);
-}
-
-.selection-purple-10-active:hover::selection,
-.selection-purple-10-active:active::selection {
-  color: var(--purple-shade-10);
-}
-
-.selection-blue-active:hover::selection,
-.selection-blue-active:active::selection {
-  color: var(--blue);
-}
-
-.selection-blue-pale-active:hover::selection,
-.selection-blue-pale-active:active::selection {
-  color: var(--blue-pale);
-}
-
-.selection-blue-dead-active:hover::selection,
-.selection-blue-dead-active:active::selection {
-  color: var(--blue-dead);
-}
-
-.selection-blue-1-active:hover::selection,
-.selection-blue-1-active:active::selection {
-  color: var(--blue-shade-1);
-}
-
-.selection-blue-2-active:hover::selection,
-.selection-blue-2-active:active::selection {
-  color: var(--blue-shade-2);
-}
-
-.selection-blue-3-active:hover::selection,
-.selection-blue-3-active:active::selection {
-  color: var(--blue-shade-3);
-}
-
-.selection-blue-4-active:hover::selection,
-.selection-blue-4-active:active::selection {
-  color: var(--blue-shade-4);
-}
-
-.selection-blue-5-active:hover::selection,
-.selection-blue-5-active:active::selection {
-  color: var(--blue-shade-5);
-}
-
-.selection-blue-6-active:hover::selection,
-.selection-blue-6-active:active::selection {
-  color: var(--blue-shade-6);
-}
-
-.selection-blue-7-active:hover::selection,
-.selection-blue-7-active:active::selection {
-  color: var(--blue-shade-7);
-}
-
-.selection-blue-8-active:hover::selection,
-.selection-blue-8-active:active::selection {
-  color: var(--blue-shade-8);
-}
-
-.selection-blue-9-active:hover::selection,
-.selection-blue-9-active:active::selection {
-  color: var(--blue-shade-9);
-}
-
-.selection-blue-10-active:hover::selection,
-.selection-blue-10-active:active::selection {
-  color: var(--blue-shade-10);
-}
-
-.selection-blue-11-active:hover::selection,
-.selection-blue-11-active:active::selection {
-  color: var(--blue-shade-11);
-}
-
-.selection-blue-12-active:hover::selection,
-.selection-blue-12-active:active::selection {
-  color: var(--blue-shade-12);
-}
-
-.selection-blue-13-active:hover::selection,
-.selection-blue-13-active:active::selection {
-  color: var(--blue-shade-13);
-}
-
-.selection-blue-14-active:hover::selection,
-.selection-blue-14-active:active::selection {
-  color: var(--blue-shade-14);
-}
-
-.selection-blue-15-active:hover::selection,
-.selection-blue-15-active:active::selection {
-  color: var(--blue-shade-15);
-}
-
-.selection-blue-16-active:hover::selection,
-.selection-blue-16-active:active::selection {
-  color: var(--blue-shade-16);
-}
-
-.selection-blue-17-active:hover::selection,
-.selection-blue-17-active:active::selection {
-  color: var(--blue-shade-17);
-}
-
-.selection-green-active:hover::selection,
-.selection-green-active:active::selection {
-  color: var(--green);
-}
-
-.selection-green-pale-active:hover::selection,
-.selection-green-pale-active:active::selection {
-  color: var(--green-pale);
-}
-
-.selection-green-1-active:hover::selection,
-.selection-green-1-active:active::selection {
-  color: var(--green-shade-1);
-}
-
-.selection-green-2-active:hover::selection,
-.selection-green-2-active:active::selection {
-  color: var(--green-shade-2);
-}
-
-.selection-green-3-active:hover::selection,
-.selection-green-3-active:active::selection {
-  color: var(--green-shade-3);
-}
-
-.selection-green-4-active:hover::selection,
-.selection-green-4-active:active::selection {
-  color: var(--green-shade-4);
-}
-
-.selection-green-5-active:hover::selection,
-.selection-green-5-active:active::selection {
-  color: var(--green-shade-5);
-}
-
-.selection-green-6-active:hover::selection,
-.selection-green-6-active:active::selection {
-  color: var(--green-shade-6);
-}
-
-.selection-green-7-active:hover::selection,
-.selection-green-7-active:active::selection {
-  color: var(--green-shade-7);
-}
-
-.selection-green-8-active:hover::selection,
-.selection-green-8-active:active::selection {
-  color: var(--green-shade-8);
-}
-
-.selection-green-9-active:hover::selection,
-.selection-green-9-active:active::selection {
-  color: var(--green-shade-9);
-}
-
-.selection-green-10-active:hover::selection,
-.selection-green-10-active:active::selection {
-  color: var(--green-shade-10);
-}
-
-.selection-green-11-active:hover::selection,
-.selection-green-11-active:active::selection {
-  color: var(--green-shade-11);
-}
-
-.selection-green-12-active:hover::selection,
-.selection-green-12-active:active::selection {
-  color: var(--green-shade-12);
-}
-
-.selection-green-13-active:hover::selection,
-.selection-green-13-active:active::selection {
-  color: var(--green-shade-13);
-}
-
-.selection-white-active:hover::selection,
-.selection-white-active:active::selection {
-  color: var(--white);
-}
-
-.selection-white-vibrant-active:hover::selection,
-.selection-white-vibrant-active:active::selection {
-  color: var(--white-vibrant);
-}
-
-.selection-white-pale-active:hover::selection,
-.selection-white-pale-active:active::selection {
-  color: var(--white-pale);
-}
-
-.selection-white-shade-1-active:hover::selection,
-.selection-white-shade-1-active:active::selection {
-  color: var(--white-shade-1);
-}
-
-.selection-white-shade-2-active:hover::selection,
-.selection-white-shade-2-active:active::selection {
-  color: var(--white-shade-2);
-}
-
-.selection-white-shade-3-active:hover::selection,
-.selection-white-shade-3-active:active::selection {
-  color: var(--white-shade3);
-}
-
-.selection-white-shade-4-active:hover::selection,
-.selection-white-shade-4-active:active::selection {
-  color: var(--white-shade-4);
-}
-
-.selection-white-shade-5-active:hover::selection,
-.selection-white-shade-5-active:active::selection {
-  color: var(--white-shade-5);
-}
-
-.selection-gray-active:hover::selection,
-.selection-gray-active:active::selection {
-  color: var(--gray);
-}
-
-.selection-gray-1-active:hover::selection,
-.selection-gray-1-active:active::selection {
-  color: var(--gray-shade-1);
-}
-
-.selection-gray-2-active:hover::selection,
-.selection-gray-2-active:active::selection {
-  color: var(--gray-shade-2);
-}
-
-.selection-gray-3-active:hover::selection,
-.selection-gray-3-active:active::selection {
-  color: var(--gray-shade-3);
-}
-
-.selection-gray-4-active:hover::selection,
-.selection-gray-4-active:active::selection {
-  color: var(--gray-shade-4);
-}
-
-.selection-gray-5-active:hover::selection,
-.selection-gray-5-active:active::selection {
-  color: var(--gray-shade-5);
-}
-
-.selection-gray-6-active:hover::selection,
-.selection-gray-6-active:active::selection {
-  color: var(--gray-shade-6);
-}
-
-.selection-gray-7-active:hover::selection,
-.selection-gray-7-active:active::selection {
-  color: var(--gray-shade-7);
-}
-
-.selection-gray-8-active:hover::selection,
-.selection-gray-8-active:active::selection {
-  color: var(--gray-shade-8);
-}
-
-.selection-gray-9-active:hover::selection,
-.selection-gray-9-active:active::selection {
-  color: var(--gray-shade-9);
-}
-
-.selection-gray-10-active:hover::selection,
-.selection-gray-10-active:active::selection {
-  color: var(--gray-shade-10);
-}
-
-.selection-black-active:hover::selection,
-.selection-black-active:active::selection {
-  color: var(--black);
-}
-
-.selection-black-pale-active:hover::selection,
-.selection-black-pale-active:active::selection {
-  color: var(--black-pale);
-}
-
-.selection-black-vibrant-active:hover::selection,
-.selection-black-vibrant-active:active::selection {
-  color: var(--black-vibrant);
-}
-
-.selection-black-1-active:hover::selection,
-.selection-black-1-active:active::selection {
-  color: var(--black-shade-1);
-}
-
-.selection-black-2-active:hover::selection,
-.selection-black-2-active:active::selection {
-  color: var(--black-shade-2);
-}
-
-.selection-black-3-active:hover::selection,
-.selection-black-3-active:active::selection {
-  color: var(--black-shade-3);
-}
-
-.selection-black-4-active:hover::selection,
-.selection-black-4-active:active::selection {
-  color: var(--black-shade-4);
-}
-
-.selection-black-5-active:hover::selection,
-.selection-black-5-active:active::selection {
-  color: var(--black-shade-5);
-}
-
-.selection-black-6-active:hover::selection,
-.selection-black-6-active:active::selection {
-  color: var(--black-shade-6);
-}
-
-.selection-black-7-active:hover::selection,
-.selection-black-7-active:active::selection {
-  color: var(--black-shade-7);
-}
-
-.selection-black-8-active:hover::selection,
-.selection-black-8-active:active::selection {
-  color: var(--black-shade-8);
-}
-
-.selection-black-9-active:hover::selection,
-.selection-black-9-active:active::selection {
-  color: var(--black-shade-9);
-}
-
-.selection-black-10-active:hover::selection,
-.selection-black-10-active:active::selection {
-  color: var(--black-shade-10);
-}
-
-.selection-black-11-active:hover::selection,
-.selection-black-11-active:active::selection {
+.selection-black-11::selection {
   color: var(--black-shade-11);
 }
