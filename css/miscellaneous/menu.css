@@ -56,12 +56,19 @@
   transition: top 0.5s ease-in-out;
 }
 
+
+.menu-toggle-open-m,
+.menu-toggle-close-m {
+  display: none;
+}
+
 @media screen and (max-width: 767px) {
 
   /* largura da tela entre 481px e 767px */
   .menu {
     width: 350px;
   }
+
 }
 
 @media screen and (max-width: 479px) {

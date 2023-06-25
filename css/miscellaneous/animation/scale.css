@@ -1,373 +1,825 @@
-.scale-1p1:hover {
+.scale-1p1 {
+  animation: scale-1p1 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p1 {
+  animation-name: scale-1p1;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p2 {
+  animation: scale-1p1 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p2 {
+  animation-name: scale-1p1;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p3 {
+  animation: scale-1p3 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p3 {
+  animation-name: scale-1p3;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p4 {
+  animation: scale-1p4 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p4 {
+  animation-name: scale-1p4;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p5 {
+  animation: scale-1p5 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p5 {
+  animation-name: scale-1p5;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p6 {
+  animation: scale-1p6 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p6 {
+  animation-name: scale-1p6;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p7 {
+  animation: scale-1p7 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p7 {
+  animation-name: scale-1p7;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p8 {
+  animation: scale-1p8 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p8 {
+  animation-name: scale-1p8;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p9 {
+  animation: scale-1p9 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-1p9 {
+  animation-name: scale-1p9;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2 {
+  animation: scale-2 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2 {
+  animation-name: scale-2;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.scale-2p2 {
+  animation: scale-2p2 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p2 {
+  animation-name: scale-2p2;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2p2 {
+  animation: scale-2p2 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p2 {
+  animation-name: scale-2p2;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2p3 {
+  animation: scale-2p3 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p3 {
+  animation-name: scale-2p3;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2p4 {
+  animation: scale-2p4 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p4 {
+  animation-name: scale-2p4;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2p5 {
+  animation: scale-2p5 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p5 {
+  animation-name: scale-2p5;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2p6 {
+  animation: scale-2p6 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p6 {
+  animation-name: scale-2p6;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2p7 {
+  animation: scale-2p7 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p7 {
+  animation-name: scale-2p7;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2p8 {
+  animation: scale-2p8 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p8 {
+  animation-name: scale-2p8;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-2p9 {
+  animation: scale-2p9 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-2p9 {
+  animation-name: scale-2p9;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.scale-3 {
+  animation: scale-3 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3 {
+  animation-name: scale-3;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.scale-3p1 {
+  animation: scale-3p1 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p1 {
+  animation-name: scale-3p1;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-3p2.Ascale-1p5 {
+  animation: scale-3p2 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p2 {
+  animation-name: scale-3p2;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-3p3 {
+  animation: scale-3p3 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p3 {
+  animation-name: scale-3p3;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-3p4 {
+  animation: scale-3p4 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p4 {
+  animation-name: scale-3p4;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-3p5 {
+  animation: scale-3p5 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p5 {
+  animation-name: scale-3p5;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-3p6 {
+  animation: scale-3p6 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p6 {
+  animation-name: scale-3p6;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-3p7 {
+  animation: scale-3p7 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p7 {
+  animation-name: scale-3p7;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-3p8 {
+  animation: scale-3p8 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p8 {
+  animation-name: scale-3p8;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-3p9 {
+  animation: scale-3p9 3s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-3p9 {
+  animation-name: scale-3p9;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-4 {
+  animation: scale-4 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-4 {
+  animation-name: scale-4;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.scale-4p1 {
+  animation: scale-4p1 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.Ascale-4p1 {
+  animation-name: scale-4p1;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.scale-4p2 {
+  animation: scale-4p2 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.Ascale-4p2 {
+  animation-name: scale-4p2;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.scale-4p3 {
+  animation: scale-4p3 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.Ascale-4p3 {
+  animation-name: scale-4p3;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.scale-4p4 {
+  animation: scale-4p4 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.Ascale-4p4 {
+  animation-name: scale-4p4;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-4p5 {
+  animation: scale-4p5 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-4p5 {
+  animation-name: scale-4p5;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-4p6 {
+  animation: scale-4p6 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-4p6 {
+  animation-name: scale-4p6;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-4p7 {
+  animation: scale-4p7 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-4p7 {
+  animation-name: scale-4p7;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-4p8 {
+  animation: scale-4p8 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-4p8 {
+  animation-name: scale-4p8;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-4p9 {
+  animation: scale-4p9 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-4p9 {
+  animation-name: scale-4p9;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-5 {
+  animation: scale-5 4s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Ascale-5 {
+  animation-name: scale-5;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.scale-1p1-active:hover {
   animation: scale-1p1 2s ease-in-out;
 }
 
-.Ascale-1p1:hover {
+.Ascale-1p1-active:hover {
   animation-name: scale-1p1;
   animation-timing-function: ease-in-out;
 }
 
-.scale-1p2:hover {
+.scale-1p2-active:hover {
   animation: scale-1p1 2s ease-in-out;
 }
 
-.Ascale-1p2:hover {
+.Ascale-1p2-active:hover {
   animation-name: scale-1p1;
   animation-timing-function: ease-in-out;
 }
 
-.scale-1p3:hover {
+.scale-1p3-active:hover {
   animation: scale-1p3 2s ease-in-out;
 }
 
-.Ascale-1p3:hover {
+.Ascale-1p3-active:hover {
   animation-name: scale-1p3;
   animation-timing-function: ease-in-out;
 }
 
-.scale-1p4:hover {
+.scale-1p4-active:hover {
   animation: scale-1p4 2s ease-in-out;
 }
 
-.Ascale-1p4:hover {
+.Ascale-1p4-active:hover {
   animation-name: scale-1p4;
   animation-timing-function: ease-in-out;
 }
 
-.scale-1p5:hover {
+.scale-1p5-active:hover {
   animation: scale-1p5 2s ease-in-out;
 }
 
-.Ascale-1p5:hover {
+.Ascale-1p5-active:hover {
   animation-name: scale-1p5;
   animation-timing-function: ease-in-out;
 }
 
-.scale-1p6:hover {
+.scale-1p6-active:hover {
   animation: scale-1p6 2s ease-in-out;
 }
 
-.Ascale-1p6:hover {
+.Ascale-1p6-active:hover {
   animation-name: scale-1p6;
   animation-timing-function: ease-in-out;
 }
 
-.scale-1p7:hover {
+.scale-1p7-active:hover {
   animation: scale-1p7 2s ease-in-out;
 }
 
-.Ascale-1p7:hover {
+.Ascale-1p7-active:hover {
   animation-name: scale-1p7;
   animation-timing-function: ease-in-out;
 }
 
-.scale-1p8:hover {
+.scale-1p8-active:hover {
   animation: scale-1p8 2s ease-in-out;
 }
 
-.Ascale-1p8:hover {
+.Ascale-1p8-active:hover {
   animation-name: scale-1p8;
   animation-timing-function: ease-in-out;
 }
 
-.scale-1p9:hover {
+.scale-1p9-active:hover {
   animation: scale-1p9 2s ease-in-out;
 }
 
-.Ascale-1p9:hover {
+.Ascale-1p9-active:hover {
   animation-name: scale-1p9;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2:hover {
+.scale-2-active:hover {
   animation: scale-2 2s ease-in-out;
 }
 
-.Ascale-2:hover {
+.Ascale-2-active:hover {
   animation-name: scale-2;
   animation-timing-function: ease-in-out;
 }
 
 
-.scale-2p2:hover {
+.scale-2p2-active:hover {
   animation: scale-2p2 2s ease-in-out;
 }
 
-.Ascale-2p2:hover {
+.Ascale-2p2-active:hover {
   animation-name: scale-2p2;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2p2:hover {
+.scale-2p2-active:hover {
   animation: scale-2p2 2s ease-in-out;
 }
 
-.Ascale-2p2:hover {
+.Ascale-2p2-active:hover {
   animation-name: scale-2p2;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2p3:hover {
+.scale-2p3-active:hover {
   animation: scale-2p3 2s ease-in-out;
 }
 
-.Ascale-2p3:hover {
+.Ascale-2p3-active:hover {
   animation-name: scale-2p3;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2p4:hover {
+.scale-2p4-active:hover {
   animation: scale-2p4 2s ease-in-out;
 }
 
-.Ascale-2p4:hover {
+.Ascale-2p4-active:hover {
   animation-name: scale-2p4;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2p5:hover {
+.scale-2p5-active:hover {
   animation: scale-2p5 2s ease-in-out;
 }
 
-.Ascale-2p5:hover {
+.Ascale-2p5-active:hover {
   animation-name: scale-2p5;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2p6:hover {
+.scale-2p6-active:hover {
   animation: scale-2p6 2s ease-in-out;
 }
 
-.Ascale-2p6:hover {
+.Ascale-2p6-active:hover {
   animation-name: scale-2p6;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2p7:hover {
+.scale-2p7-active:hover {
   animation: scale-2p7 2s ease-in-out;
 }
 
-.Ascale-2p7:hover {
+.Ascale-2p7-active:hover {
   animation-name: scale-2p7;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2p8:hover {
+.scale-2p8-active:hover {
   animation: scale-2p8 2s ease-in-out;
 }
 
-.Ascale-2p8:hover {
+.Ascale-2p8-active:hover {
   animation-name: scale-2p8;
   animation-timing-function: ease-in-out;
 }
 
-.scale-2p9:hover {
+.scale-2p9-active:hover {
   animation: scale-2p9 2s ease-in-out;
 }
 
-.Ascale-2p9:hover {
+.Ascale-2p9-active:hover {
   animation-name: scale-2p9;
   animation-timing-function: ease-in-out;
 }
 
 
-.scale-3:hover {
+.scale-3-active:hover {
   animation: scale-3 2s ease-in-out;
 }
 
-.Ascale-3:hover {
+.Ascale-3-active:hover {
   animation-name: scale-3;
   animation-timing-function: ease-in-out;
 }
 
 
-.scale-3p1:hover {
+.scale-3p1-active:hover {
   animation: scale-3p1 3s ease-in-out;
 }
 
-.Ascale-3p1:hover {
+.Ascale-3p1-active:hover {
   animation-name: scale-3p1;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p2.Ascale-1p5:hover {
+.scale-3p2.Ascale-1p5-active:hover {
   animation: scale-3p2 3s ease-in-out;
 }
 
-.Ascale-3p2:hover {
+.Ascale-3p2-active:hover {
   animation-name: scale-3p2;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p3:hover {
+.scale-3p3-active:hover {
   animation: scale-3p3 3s ease-in-out;
 }
 
-.Ascale-3p3:hover {
+.Ascale-3p3-active:hover {
   animation-name: scale-3p3;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p4:hover {
+.scale-3p4-active:hover {
   animation: scale-3p4 3s ease-in-out;
 }
 
-.Ascale-3p4:hover {
+.Ascale-3p4-active:hover {
   animation-name: scale-3p4;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p5:hover {
+.scale-3p5-active:hover {
   animation: scale-3p5 3s ease-in-out;
 }
 
-.Ascale-3p5:hover {
+.Ascale-3p5-active:hover {
   animation-name: scale-3p5;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p6:hover {
+.scale-3p6-active:hover {
   animation: scale-3p6 3s ease-in-out;
 }
 
-.Ascale-3p6:hover {
+.Ascale-3p6-active:hover {
   animation-name: scale-3p6;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p7:hover {
+.scale-3p7-active:hover {
   animation: scale-3p7 3s ease-in-out;
 }
 
-.Ascale-3p7:hover {
+.Ascale-3p7-active:hover {
   animation-name: scale-3p7;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p8:hover {
+.scale-3p8-active:hover {
   animation: scale-3p8 3s ease-in-out;
 }
 
-.Ascale-3p8:hover {
+.Ascale-3p8-active:hover {
   animation-name: scale-3p8;
   animation-timing-function: ease-in-out;
 }
 
-.scale-3p9:hover {
+.scale-3p9-active:hover {
   animation: scale-3p9 3s ease-in-out;
 }
 
-.Ascale-3p9:hover {
+.Ascale-3p9-active:hover {
   animation-name: scale-3p9;
   animation-timing-function: ease-in-out;
 }
 
-.scale-4:hover {
+.scale-4-active:hover {
   animation: scale-4 4s ease-in-out;
 }
 
-.Ascale-4:hover {
+.Ascale-4-active:hover {
   animation-name: scale-4;
   animation-timing-function: ease-in-out;
 }
 
 
-.scale-4p1:hover {
+.scale-4p1-active:hover {
   animation: scale-4p1 4s ease-in-out;
 }
 
 
-.Ascale-4p1:hover {
+.Ascale-4p1-active:hover {
   animation-name: scale-4p1;
   animation-timing-function: ease-in-out;
 }
 
 
-.scale-4p2:hover {
+.scale-4p2-active:hover {
   animation: scale-4p2 4s ease-in-out;
 }
 
 
-.Ascale-4p2:hover {
+.Ascale-4p2-active:hover {
   animation-name: scale-4p2;
   animation-timing-function: ease-in-out;
 }
 
 
-.scale-4p3:hover {
+.scale-4p3-active:hover {
   animation: scale-4p3 4s ease-in-out;
 }
 
 
-.Ascale-4p3:hover {
+.Ascale-4p3-active:hover {
   animation-name: scale-4p3;
   animation-timing-function: ease-in-out;
 }
 
 
-.scale-4p4:hover {
+.scale-4p4-active:hover {
   animation: scale-4p4 4s ease-in-out;
 }
 
 
-.Ascale-4p4:hover {
+.Ascale-4p4-active:hover {
   animation-name: scale-4p4;
   animation-timing-function: ease-in-out;
 }
 
-.scale-4p5:hover {
+.scale-4p5-active:hover {
   animation: scale-4p5 4s ease-in-out;
 }
 
-.Ascale-4p5:hover {
+.Ascale-4p5-active:hover {
   animation-name: scale-4p5;
   animation-timing-function: ease-in-out;
 }
 
-.scale-4p6:hover {
+.scale-4p6-active:hover {
   animation: scale-4p6 4s ease-in-out;
 }
 
-.Ascale-4p6:hover {
+.Ascale-4p6-active:hover {
   animation-name: scale-4p6;
   animation-timing-function: ease-in-out;
 }
 
-.scale-4p7:hover {
+.scale-4p7-active:hover {
   animation: scale-4p7 4s ease-in-out;
 }
 
-.Ascale-4p7:hover {
+.Ascale-4p7-active:hover {
   animation-name: scale-4p7;
   animation-timing-function: ease-in-out;
 }
 
-.scale-4p8:hover {
+.scale-4p8-active:hover {
   animation: scale-4p8 4s ease-in-out;
 }
 
-.Ascale-4p8:hover {
+.Ascale-4p8-active:hover {
   animation-name: scale-4p8;
   animation-timing-function: ease-in-out;
 }
 
-.scale-4p9:hover {
+.scale-4p9-active:hover {
   animation: scale-4p9 4s ease-in-out;
 }
 
-.Ascale-4p9:hover {
+.Ascale-4p9-active:hover {
   animation-name: scale-4p9;
   animation-timing-function: ease-in-out;
 }
 
-.scale-5:hover {
+.scale-5-active:hover {
   animation: scale-5 4s ease-in-out;
 }
 
-.Ascale-5:hover {
+.Ascale-5-active:hover {
   animation-name: scale-5;
   animation-timing-function: ease-in-out;
 }
+
 
 @keyframes scale-1p1 {
   0% {

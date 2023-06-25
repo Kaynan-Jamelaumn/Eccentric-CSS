@@ -3551,6 +3551,37 @@
 
 @media screen and (max-width: 320px) {
 
+  .m-0-xxs-inheritance>* {
+    margin: 0;
+  }
+
+  .mt-0-xxs-inheritance>* {
+    margin-top: 0;
+  }
+
+  .mb-0-xxs-inheritance>* {
+    margin-bottom: 0;
+  }
+
+
+  .ml-0-xxs-inheritance>* {
+    margin-left: 0;
+  }
+
+  .mr-0-xxs-inheritance>* {
+    margin-right: 0;
+  }
+
+  .my-0-xxs-inheritance>* {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .mx-0-xxs-inheritance>* {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .m-0-xxs {
     margin: 0;
   }
@@ -7104,6 +7135,38 @@
 }
 
 @media screen and (max-width: 479px) {
+
+  .m-0-xs-inheritance>* {
+    margin: 0;
+  }
+
+  .mt-0-xs-inheritance>* {
+    margin-top: 0;
+  }
+
+  .mb-0-xs-inheritance>* {
+    margin-bottom: 0;
+  }
+
+
+  .ml-0-xs-inheritance>* {
+    margin-left: 0;
+  }
+
+  .mr-0-xs-inheritance>* {
+    margin-right: 0;
+  }
+
+  .my-0-xs-inheritance>* {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .mx-0-xs-inheritance>* {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .m-0-xs {
     margin: 0;
   }
@@ -10657,6 +10720,69 @@
 }
 
 @media screen and (min-width: 480px) {
+
+  .m-0-m-inheritance>* {
+    margin: 0;
+  }
+
+  .mt-0-m-inheritance>* {
+    margin-top: 0;
+  }
+
+  .mb-0-m-inheritance>* {
+    margin-bottom: 0;
+  }
+
+
+  .ml-0-m-inheritance>* {
+    margin-left: 0;
+  }
+
+  .mr-0-m-inheritance>* {
+    margin-right: 0;
+  }
+
+  .my-0-m-inheritance>* {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .mx-0-m-inheritance>* {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .m-0-s-inheritance>* {
+    margin: 0;
+  }
+
+  .mt-0-s-inheritance>* {
+    margin-top: 0;
+  }
+
+  .mb-0-s-inheritance>* {
+    margin-bottom: 0;
+  }
+
+
+  .ml-0-s-inheritance>* {
+    margin-left: 0;
+  }
+
+  .mr-0-s-inheritance>* {
+    margin-right: 0;
+  }
+
+  .my-0-s-inheritance>* {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .mx-0-s-inheritance>* {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .m-0-s {
     margin: 0;
   }
@@ -14210,6 +14336,38 @@
 }
 
 @media screen and (min-width: 768px) {
+
+  .m-0-l-inheritance>* {
+    margin: 0;
+  }
+
+  .mt-0-l-inheritance>* {
+    margin-top: 0;
+  }
+
+  .mb-0-l-inheritance>* {
+    margin-bottom: 0;
+  }
+
+
+  .ml-0-l-inheritance>* {
+    margin-left: 0;
+  }
+
+  .mr-0-l-inheritance>* {
+    margin-right: 0;
+  }
+
+  .my-0-l-inheritance>* {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .mx-0-l-inheritance>* {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
 
   .m-0-m {
     margin: 0;
@@ -17765,6 +17923,37 @@
 
 @media screen and (min-width: 1024px) {
 
+  .m-0-xl-inheritance>* {
+    margin: 0;
+  }
+
+  .mt-0-xl-inheritance>* {
+    margin-top: 0;
+  }
+
+  .mb-0-xl-inheritance>* {
+    margin-bottom: 0;
+  }
+
+
+  .ml-0-xl-inheritance>* {
+    margin-left: 0;
+  }
+
+  .mr-0-xl-inheritance>* {
+    margin-right: 0;
+  }
+
+  .my-0-xl-inheritance>* {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .mx-0-xl-inheritance>* {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .m-0-l {
     margin: 0;
   }
@@ -21318,6 +21507,37 @@
 }
 
 @media screen and (min-width: 1280px) {
+
+  .m-0-xxl-inheritance>* {
+    margin: 0;
+  }
+
+  .mt-0-xxl-inheritance>* {
+    margin-top: 0;
+  }
+
+  .mb-0-xxl-inheritance>* {
+    margin-bottom: 0;
+  }
+
+
+  .ml-0-xxl-inheritance>* {
+    margin-left: 0;
+  }
+
+  .mr-0-xxl-inheritance>* {
+    margin-right: 0;
+  }
+
+  .my-0-xxl-inheritance>* {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .mx-0-xxl-inheritance>* {
+    margin-left: 0;
+    margin-right: 0;
+  }
 
   .m-0-xl {
     margin: 0;
@@ -28426,6 +28646,37 @@
 }
 
 @media screen and (min-width: 1920px) {
+
+  .m-0-xxxl-inheritance>* {
+    margin: 0;
+  }
+
+  .mt-0-xxxl-inheritance>* {
+    margin-top: 0;
+  }
+
+  .mb-0-xxxl-inheritance>* {
+    margin-bottom: 0;
+  }
+
+
+  .ml-0-xxxl-inheritance>* {
+    margin-left: 0;
+  }
+
+  .mr-0-xxxl-inheritance>* {
+    margin-right: 0;
+  }
+
+  .my-0-xxxl-inheritance>* {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .mx-0-xxxl-inheritance>* {
+    margin-left: 0;
+    margin-right: 0;
+  }
 
   .m-0-xxxl {
     margin: 0;

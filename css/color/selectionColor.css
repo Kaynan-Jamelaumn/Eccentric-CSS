@@ -1,3 +1,7 @@
+.selection-brown::selection {
+  color: var(--brown);
+}
+
 .selection-yellow::selection {
   color: var(--yellow);
 }

@@ -1,3 +1,7 @@
+.brown {
+  color: var(--brown);
+}
+
 .yellow {
   color: var(--yellow);
 }
@@ -451,6 +455,11 @@
 
 .black-11 {
   color: var(--black-shade-11);
+}
+
+.brown-active:hover,
+.brown-active:active {
+  color: var(--brown);
 }
 
 .yellow-active:hover,

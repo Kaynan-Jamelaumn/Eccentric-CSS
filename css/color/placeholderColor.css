@@ -1,3 +1,7 @@
+.placeholder-brown::placeholder {
+  color: var(--brown);
+}
+
 .placeholder-yellow::placeholder {
   color: var(--yellow);
 }

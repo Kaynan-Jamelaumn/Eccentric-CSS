@@ -1,3 +1,27 @@
+.transition-0p0 {
+  transition: 0;
+}
+
+.infinite{
+  animation-iteration-count: infinite;
+}
+
+.transition-0p3 {
+  transition-duration: 0.3s;
+}
+
+.transition-0p5 {
+  transition-duration: 0.5s;
+}
+
+.transition-0p7 {
+  transition-duration: 0.7s;
+}
+
+.transition-0p9 {
+  transition-duration: 0.9s;
+}
+
 .no-animation:hover {
   animation: none;
 }
@@ -195,13 +219,13 @@
   animation-timing-function: ease-in-out
 }
 
-.from-right-full-potentail {
-  animation: from-right-full-potentail 2s ease-in-out;
+.from-right-full-potential {
+  animation: from-right-full-potential 2s ease-in-out;
 
 }
 
-.Afrom-right-full-potentail {
-  animation-name: from-right-full-potentail;
+.Afrom-right-full-potential {
+  animation-name: from-right-full-potential;
   animation-timing-function: ease-in-out
 }
 
@@ -236,13 +260,13 @@
   animation-timing-function: ease-in-out
 }
 
-.from-left-full-potentail {
-  animation: from-left-full-potentail 2s ease-in-out;
+.from-left-full-potential {
+  animation: from-left-full-potential 2s ease-in-out;
 
 }
 
-.Afrom-left-full-potentail {
-  animation-name: from-left-full-potentail;
+.Afrom-left-full-potential {
+  animation-name: from-left-full-potential;
   animation-timing-function: ease-in-out
 }
 
@@ -277,13 +301,13 @@
   animation-timing-function: ease-in-out
 }
 
-.from-up-full-potentail {
-  animation: from-up-full-potentail 2s ease-in-out;
+.from-up-full-potential {
+  animation: from-up-full-potential 2s ease-in-out;
 
 }
 
-.Afrom-up-full-potentail {
-  animation-name: from-uo-full-potentail;
+.Afrom-up-full-potential {
+  animation-name: from-uo-full-potential;
   animation-timing-function: ease-in-out
 }
 
@@ -318,13 +342,13 @@
   animation-timing-function: ease-in-out
 }
 
-.from-down-full-potentail {
-  animation: from-down-full-potentail 2s ease-in-out;
+.from-down-full-potential {
+  animation: from-down-full-potential 2s ease-in-out;
 
 }
 
-.Afrom-down-full-potentail {
-  animation-name: from-down-full-potentail;
+.Afrom-down-full-potential {
+  animation-name: from-down-full-potential;
   animation-timing-function: ease-in-out
 }
 
@@ -493,13 +517,13 @@
   animation-timing-function: ease-in-out
 }
 
-.from-right-full-potentail-active:hover {
-  animation: from-right-full-potentail 2s ease-in-out;
+.from-right-full-potential-active:hover {
+  animation: from-right-full-potential 2s ease-in-out;
 
 }
 
-.Afrom-right-full-potentail-active:hover {
-  animation-name: from-right-full-potentail;
+.Afrom-right-full-potential-active:hover {
+  animation-name: from-right-full-potential;
   animation-timing-function: ease-in-out
 }
 
@@ -534,13 +558,13 @@
   animation-timing-function: ease-in-out
 }
 
-.from-left-full-potentail-active:hover {
-  animation: from-left-full-potentail 2s ease-in-out;
+.from-left-full-potential-active:hover {
+  animation: from-left-full-potential 2s ease-in-out;
 
 }
 
-.Afrom-left-full-potentail-active:hover {
-  animation-name: from-left-full-potentail;
+.Afrom-left-full-potential-active:hover {
+  animation-name: from-left-full-potential;
   animation-timing-function: ease-in-out
 }
 
@@ -575,13 +599,13 @@
   animation-timing-function: ease-in-out
 }
 
-.from-up-full-potentail-active:hover {
-  animation: from-up-full-potentail 2s ease-in-out;
+.from-up-full-potential-active:hover {
+  animation: from-up-full-potential 2s ease-in-out;
 
 }
 
-.Afrom-up-full-potentail-active:hover {
-  animation-name: from-uo-full-potentail;
+.Afrom-up-full-potential-active:hover {
+  animation-name: from-uo-full-potential;
   animation-timing-function: ease-in-out
 }
 
@@ -616,13 +640,13 @@
   animation-timing-function: ease-in-out
 }
 
-.from-down-full-potentail-active:hover {
-  animation: from-down-full-potentail 2s ease-in-out;
+.from-down-full-potential-active:hover {
+  animation: from-down-full-potential 2s ease-in-out;
 
 }
 
-.Afrom-down-full-potentail-active:hover {
-  animation-name: from-down-full-potentail;
+.Afrom-down-full-potential-active:hover {
+  animation-name: from-down-full-potential;
   animation-timing-function: ease-in-out
 }
 

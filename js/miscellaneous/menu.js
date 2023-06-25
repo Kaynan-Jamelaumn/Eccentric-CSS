@@ -6,7 +6,7 @@ const menuTypeClassList = menu.classList;
 menuToggle.addEventListener('click', function () {
   //resizeMenuWidth()
 
-  if (menuTypeClassList.contains('menu-left')) {
+  if (menuTypeClassList.contains('menu-left-m')) {
     menu.style.left = '0';
     return
   }
@@ -24,7 +24,7 @@ menuToggle.addEventListener('click', function () {
 });
 
 menuToggleClose.addEventListener('click', function () {
-  if (menuTypeClassList.contains('menu-left')) {
+  if (menuTypeClassList.contains('menu-left-m')) {
     menu.style.left = `-${menu.offsetWidth}px`; // "-" + menu.offsetWidth + "px";
     return
   }

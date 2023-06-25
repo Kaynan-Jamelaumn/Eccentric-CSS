@@ -1,3 +1,7 @@
+.bg-selection-brown::selection {
+  background-color: var(--brown);
+}
+
 .bg-selection-yellow::selection {
   background-color: var(--yellow);
 }

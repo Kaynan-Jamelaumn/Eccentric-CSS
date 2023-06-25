@@ -2,6 +2,10 @@
   background-color: transparent;
 }
 
+.bg-brown {
+  background-color: var(--brown);
+}
+
 .bg-yellow {
   background-color: var(--yellow);
 }
@@ -455,6 +459,11 @@
 
 .bg-black-11 {
   background-color: var(--black-shade-11);
+}
+
+.bg-brown-active:hover,
+.bg-brown-active:active {
+  background-color: var(--brown);
 }
 
 .bg-yellow-active:hover,
