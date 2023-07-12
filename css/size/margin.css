@@ -10721,33 +10721,33 @@
 
 @media screen and (min-width: 480px) {
 
-  .m-0-m-inheritance>* {
+  .m-0-s-inheritance>* {
     margin: 0;
   }
 
-  .mt-0-m-inheritance>* {
+  .mt-0-s-inheritance>* {
     margin-top: 0;
   }
 
-  .mb-0-m-inheritance>* {
+  .mb-0-s-inheritance>* {
     margin-bottom: 0;
   }
 
 
-  .ml-0-m-inheritance>* {
+  .ml-0-s-inheritance>* {
     margin-left: 0;
   }
 
-  .mr-0-m-inheritance>* {
+  .mr-0-s-inheritance>* {
     margin-right: 0;
   }
 
-  .my-0-m-inheritance>* {
+  .my-0-s-inheritance>* {
     margin-top: 0;
     margin-bottom: 0;
   }
 
-  .mx-0-m-inheritance>* {
+  .mx-0-s-inheritance>* {
     margin-left: 0;
     margin-right: 0;
   }
@@ -14337,33 +14337,33 @@
 
 @media screen and (min-width: 768px) {
 
-  .m-0-l-inheritance>* {
+  .m-0-m-inheritance>* {
     margin: 0;
   }
 
-  .mt-0-l-inheritance>* {
+  .mt-0-m-inheritance>* {
     margin-top: 0;
   }
 
-  .mb-0-l-inheritance>* {
+  .mb-0-m-inheritance>* {
     margin-bottom: 0;
   }
 
 
-  .ml-0-l-inheritance>* {
+  .ml-0-m-inheritance>* {
     margin-left: 0;
   }
 
-  .mr-0-l-inheritance>* {
+  .mr-0-m-inheritance>* {
     margin-right: 0;
   }
 
-  .my-0-l-inheritance>* {
+  .my-0-m-inheritance>* {
     margin-top: 0;
     margin-bottom: 0;
   }
 
-  .mx-0-l-inheritance>* {
+  .mx-0-m-inheritance>* {
     margin-left: 0;
     margin-right: 0;
   }
@@ -17923,33 +17923,33 @@
 
 @media screen and (min-width: 1024px) {
 
-  .m-0-xl-inheritance>* {
+  .m-0-l-inheritance>* {
     margin: 0;
   }
 
-  .mt-0-xl-inheritance>* {
+  .mt-0-l-inheritance>* {
     margin-top: 0;
   }
 
-  .mb-0-xl-inheritance>* {
+  .mb-0-l-inheritance>* {
     margin-bottom: 0;
   }
 
 
-  .ml-0-xl-inheritance>* {
+  .ml-0-l-inheritance>* {
     margin-left: 0;
   }
 
-  .mr-0-xl-inheritance>* {
+  .mr-0-l-inheritance>* {
     margin-right: 0;
   }
 
-  .my-0-xl-inheritance>* {
+  .my-0-l-inheritance>* {
     margin-top: 0;
     margin-bottom: 0;
   }
 
-  .mx-0-xl-inheritance>* {
+  .mx-0-l-inheritance>* {
     margin-left: 0;
     margin-right: 0;
   }
@@ -21508,33 +21508,33 @@
 
 @media screen and (min-width: 1280px) {
 
-  .m-0-xxl-inheritance>* {
+  .m-0-xl-inheritance>* {
     margin: 0;
   }
 
-  .mt-0-xxl-inheritance>* {
+  .mt-0-xl-inheritance>* {
     margin-top: 0;
   }
 
-  .mb-0-xxl-inheritance>* {
+  .mb-0-xl-inheritance>* {
     margin-bottom: 0;
   }
 
 
-  .ml-0-xxl-inheritance>* {
+  .ml-0-xl-inheritance>* {
     margin-left: 0;
   }
 
-  .mr-0-xxl-inheritance>* {
+  .mr-0-xl-inheritance>* {
     margin-right: 0;
   }
 
-  .my-0-xxl-inheritance>* {
+  .my-0-xl-inheritance>* {
     margin-top: 0;
     margin-bottom: 0;
   }
 
-  .mx-0-xxl-inheritance>* {
+  .mx-0-xl-inheritance>* {
     margin-left: 0;
     margin-right: 0;
   }
