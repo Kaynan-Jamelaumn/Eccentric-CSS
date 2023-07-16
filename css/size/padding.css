@@ -25092,36 +25092,6 @@
 }
 
 @media screen and (min-width: 1440px) {
-  .p-0-xxl-inheritance>* {
-    padding: 0;
-  }
-
-  .pt-0-xxl-inheritance>* {
-    padding-top: 0;
-  }
-
-  .pb-0-xxl-inheritance>* {
-    padding-bottom: 0;
-  }
-
-
-  .pl-0-xxl-inheritance>* {
-    padding-left: 0;
-  }
-
-  .pr-0-xxl-inheritance>* {
-    padding-right: 0;
-  }
-
-  .py-0-xxl-inheritance>* {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-
-  .px-0-xxl-inheritance>* {
-    padding-left: 0;
-    padding-right: 0;
-  }
 
   .p-0-xxl {
     padding: 0;
