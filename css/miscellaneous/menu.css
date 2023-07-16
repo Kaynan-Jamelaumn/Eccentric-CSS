@@ -10,13 +10,20 @@
   z-index: 1;
   transform: translateX(-100%);
   position: fixed;
+  top: 0;
+  transition: 1s;
+}
+
+#main-menu:has(> .menu-left) {
+  z-index: 1;
+  transform: translateX(-100%);
+  position: fixed;
   left: 0;
   top: 0;
   transition: 1s;
-
 }
 
-#main-menu:has(> .diogonal-top-left) {
+#main-menu:has(> .menu-top-left) {
   z-index: 1;
   transform: translateX(-100%)translateY(-100%);
   position: fixed;
@@ -25,7 +32,7 @@
   transition: 1s;
 }
 
-#main-menu:has(> .diogonal-bottom-left) {
+#main-menu:has(> .menu-bottom-left) {
   z-index: 1;
   transform: translateX(-100%)translateY(100%);
   position: fixed;
@@ -34,7 +41,7 @@
   transition: 1s;
 }
 
-#main-menu:has(> .diogonal-bottom-left-middle) {
+#main-menu:has(> .menu-bottom-left-middle) {
   z-index: 1;
   transform: translateX(100%)translateY(100%);
   position: fixed;
@@ -43,7 +50,7 @@
   transition: 1s;
 }
 
-#main-menu:has(> .diogonal-top-left-middle) {
+#main-menu:has(> .menu-top-left-middle) {
   z-index: 1;
   transform: translateX(100%)translateY(-100%);
   position: fixed;
@@ -53,34 +60,7 @@
 }
 
 
-#main-menu:has(> .diogonal-top-right) {
-  z-index: 1;
-  transform: translateX(-100%)translateY(-100%);
-  position: fixed;
-  right: 0;
-  top: 0;
-  transition: 1s;
-}
-
-#main-menu:has(> .diogonal-bottom-right) {
-  z-index: 1;
-  transform: translateX(-100%)translateY(100%);
-  position: fixed;
-  right: 0;
-  top: 0;
-  transition: 1s;
-}
-
-#main-menu:has(> .diogonal-bottom-right-middle) {
-  z-index: 1;
-  transform: translateX(100%)translateY(100%);
-  position: fixed;
-  right: 0;
-  top: 0;
-  transition: 1s;
-}
-
-#main-menu:has(> .diogonal-top-right-middle) {
+#main-menu:has(> .menu-top-right) {
   z-index: 1;
   transform: translateX(100%)translateY(-100%);
   position: fixed;
@@ -89,7 +69,34 @@
   transition: 1s;
 }
 
-#main-menu:has(> .from-above) {
+#main-menu:has(> .menu-bottom-right) {
+  z-index: 1;
+  transform: translateX(100%)translateY(100%);
+  position: fixed;
+  right: 0;
+  top: 0;
+  transition: 1s;
+}
+
+#main-menu:has(> .menu-bottom-right-middle) {
+  z-index: 1;
+  transform: translateX(-100%)translateY(100%);
+  position: fixed;
+  right: 0;
+  top: 0;
+  transition: 1s;
+}
+
+#main-menu:has(> .menu-top-right-middle) {
+  z-index: 1;
+  transform: translateX(-100%)translateY(-100%);
+  position: fixed;
+  right: 0;
+  top: 0;
+  transition: 1s;
+}
+
+#main-menu:has(> .menu-from-above) {
   z-index: 1;
   transform: translateY(-100%);
   position: fixed;
@@ -98,7 +105,7 @@
   transition: 1s;
 }
 
-#main-menu:has(> .from-bottom) {
+#main-menu:has(> .menu-from-bottom) {
   z-index: 1;
   transform: translateY(+100%);
   position: fixed;
