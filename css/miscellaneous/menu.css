@@ -89,10 +89,6 @@
   transition: 1s;
 }
 
-
-
-
-
 #main-menu:has(> .from-above) {
   z-index: 1;
   transform: translateY(-100%);
