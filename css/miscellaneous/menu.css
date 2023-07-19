@@ -96,7 +96,7 @@
   transition: 1s;
 }
 
-#main-menu:has(> .menu-from-above) {
+#main-menu:has(> .menu-top) {
   z-index: 1;
   transform: translateY(-100%);
   position: fixed;
@@ -105,13 +105,33 @@
   transition: 1s;
 }
 
-#main-menu:has(> .menu-from-bottom) {
+#main-menu:has(> .menu-bottom) {
   z-index: 1;
   transform: translateY(+100%);
   position: fixed;
   left: 0;
   bottom: 0;
   transition: 1s;
+}
+
+#main-menu:has(> .menu-top-full) {
+  z-index: 1;
+  transform: translateY(-100%);
+  position: fixed;
+  left: 0;
+  top: 0;
+  transition: 1s;
+  width: 100vw;
+}
+
+#main-menu:has(> .menu-bottom-full) {
+  z-index: 1;
+  transform: translateY(+100%);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  transition: 1s;
+  width: 100vw;
 }
 
 
@@ -138,19 +158,4 @@
 
 #close-button {
   display: block;
-}
-
-@media screen and (max-width: 600px) {
-  #burger-button {
-    width: 100%;
-    background-color: #333;
-    position: static;
-  }
-}
-
-
-@media screen and (min-width: 1280px) {
-  #main-menu {
-    width: 320px;
-  }
 }
